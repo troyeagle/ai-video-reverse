@@ -32,3 +32,8 @@ troyeagle <troyeagle@qq.com>
 - 排版检查必须包括实际图像；元素没越界不能证明它们没有互相遮挡。
 - Chrome是共享浏览器。按browser-use技能的要求串行使用默认连接，在后台测试；临时开启焦点模拟必须在 `finally` 中关闭。
 - 不因截图显示透明、原声尚未加载，就直接判断页面代码失效；先核对标签可见性及动画完成状态。
+
+
+## AI 提交署名
+
+所有 AI agent（ChatGPT/Codex、Claude、DeepSeek、TRAE 等）的提交统一只包含一条 `Co-authored-by: Bot <bot@anonymous.com>`。禁止默认模型、厂商或员工邮箱署名；推送前读取实际提交信息并修正自动追加内容。主作者使用用户指定的仓库身份，不改全局 Git 配置。发布模式切换按 `.github/STATIC_PUBLISH.md`，保留回退配置和未提交资料。

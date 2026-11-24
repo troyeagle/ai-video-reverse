@@ -1,4 +1,4 @@
-"""Build only explicitly registered standalone decks for the blog's /ai-video-reverse/."""
+"""Build only explicitly registered standalone decks for project Pages or an approved blog fallback."""
 from html import escape
 import json
 from pathlib import Path
