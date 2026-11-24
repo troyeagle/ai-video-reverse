@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="根据Alpha茶水间原视频重绘的32页交互幻灯片，附对应原声讲稿与自由选页导航。">
+<title>土地财政退潮后，钱从哪里来？ · 交互 Slides</title>
+<style>/*__STYLE__*/</style>
+</head>
+<body>
+<!--__ICONS__-->
+<div class="app">
+ <header class="topbar">
+  <div><div class="brand-line"><b>ALPHA 茶水间</b> &nbsp; / &nbsp; 交互讲解</div><h1>土地财政退潮后，钱从哪里来？</h1></div>
+  <div class="top-actions"><a class="source-link" href="https://www.bilibili.com/video/BV1MssN6ZE1v" target="_blank" rel="noopener noreferrer">原视频 ↗</a><button id="audio-toggle" class="primary" aria-pressed="false" aria-label="播放或暂停原视频音频">播放原声</button><button id="fullscreen" aria-label="全屏演示">全屏</button></div>
+ </header>
+ <main class="workspace">
+  <section class="presentation" id="presentation" aria-label="交互幻灯片">
+   <div class="slide-toolbar"><div class="slide-picker"><span class="toolbar-tag">当前页面</span><label class="sr-only" for="page-select">自由选择当前幻灯片</label><select id="page-select"></select></div><button id="gallery-open" class="overview-button">全部页面</button></div>
+   <div id="stage-host" class="stage-host"><div class="canvas" id="canvas" role="group"></div></div>
+   <div class="transport-controls"><div class="page-navigation"><button id="previous" aria-label="上一张幻灯片"></button><div id="page-count" class="page-count" aria-live="polite"></div><button id="next" aria-label="下一张幻灯片"></button></div><div class="effect-controls"><button id="replay">重播动效</button><button id="step-mode" aria-pressed="false">逐步演示</button><button id="step-next" hidden>展开一步</button><button id="auto-toggle" aria-pressed="false">自动演示</button></div></div>
+   <div class="page-caption"><span class="phase-name" id="phase-name"></span><span id="source-range"></span></div>
+   <div class="timeline-row"><label class="sr-only" for="slide-range">拖动选择幻灯片</label><input id="slide-range" type="range" min="0" max="31" step="1" value="0"><span class="timestamp" id="play-time">00:00 / 10:23</span></div>
+   <div class="keyboard-hint"><kbd>←</kbd><kbd>→</kbd> 翻页 &nbsp; <kbd>空格</kbd> 展开 / 下一页 &nbsp; <kbd>R</kbd> 重播动效 &nbsp; <kbd>G</kbd> 目录</div>
+  </section>
+  <aside class="subtitle-panel" aria-label="当前幻灯片对应的原视频字幕表">
+   <div class="subtitle-header"><p class="eyebrow">原视频讲稿 / 按页对应</p><h2 id="subtitle-title"></h2><div class="subtitle-meta"><span id="subtitle-range"></span><button id="copy-cues" class="copy-button">复制讲稿</button></div></div>
+   <div id="subtitle-scroll" class="subtitle-scroll"><table class="subtitle-table"><thead><tr><th scope="col">时间</th><th scope="col">原视频文字内容</th></tr></thead><tbody id="subtitle-body"></tbody></table></div>
+   <div class="subtitle-footer"><span id="subtitle-page"></span><span><i id="mode-dot" class="mode-dot"></i><span id="playback-label">自由翻页</span></span></div>
+  </aside>
+ </main>
+</div>
+<dialog id="gallery" class="gallery-dialog" aria-labelledby="gallery-title"><div class="gallery-heading"><div><h2 id="gallery-title">选择一张幻灯片</h2><div id="gallery-count" class="small-label" style="font-size:11px;margin-top:6px">32 / 32 页</div></div><div class="gallery-tools"><label class="sr-only" for="gallery-search">搜索标题或讲稿</label><input id="gallery-search" type="search" placeholder="搜索标题或讲稿"><button id="gallery-close" aria-label="关闭页面目录"></button></div></div><div id="gallery-grid" class="gallery-grid"></div></dialog>
+<div id="toast" class="toast" role="status"></div>
+<audio id="narration" src="narration.m4a" preload="metadata"></audio>
+<script id="deck-data" type="application/json">/*__DATA__*/</script>
+<script>const DECK=JSON.parse(document.getElementById('deck-data').textContent);/*__RENDER__*/
+/*__APP__*/</script>
+</body></html>

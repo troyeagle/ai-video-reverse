@@ -1,0 +1,29 @@
+# Machine-local environments and caches
+.DS_Store
+.local/
+**/.asr-venv/
+**/.venv/
+**/.model-cache/
+**/.uv-cache/
+**/.swift-cache/
+**/.runtime-cache/
+**/__pycache__/
+*.py[cod]
+
+# Local source media and delivery archives
+*.mp4
+*.m4s
+*.m4a
+*.wav
+*.mp3
+*.flac
+*.zip
+
+# Temporary playback URLs, account state and browser identifiers
+**/playurl.json
+**/player.json
+**/browser-target.json
+**/github-settings-tab.json
+
+# Known unrelated subtitle responses retained only as local evidence
+**/字幕接口错误返回/

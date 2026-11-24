@@ -1,0 +1,2 @@
+# Tested ASR entrypoint on macOS Apple Silicon with Metal GPU and FFmpeg.
+mlx-whisper==0.4.3
