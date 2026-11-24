@@ -20,6 +20,8 @@
 
 在本地直接用浏览器打开HTML即可使用。原声文件与网页放在同一目录。Git只追踪代码、文字内容、文档和验证图像；视频、音频、ZIP、模型及运行缓存保留在本地案例目录。
 
+[线上演示目录](https://troyeagle.github.io/ai-video-reverse/)通过博客的静态产物流程发布；[当前案例](https://troyeagle.github.io/ai-video-reverse/BV1MssN6ZE1v/)保留完整演示及讲稿，原声仅在本地提供。重建、案例登记和通知配置见 [HTML 自动发布规约](.github/STATIC_PUBLISH.md)。
+
 ## 工程结构
 
 ```text

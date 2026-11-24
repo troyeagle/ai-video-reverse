@@ -56,3 +56,7 @@ git status -sb
 代码、文章、校订转写、页级讲稿、工程文档及验证图片进入Git。媒体、ZIP、模型与虚拟环境保留在案例目录并被忽略；GitHub克隆后可直接查看及重建网页内容，播放原声需要本地音频。
 
 原始 `playurl.json`、`player.json`、浏览器标签标识及已确认不相关的字幕返回也仅作本地记录，不进入Git。
+
+## HTML 产物自动发布
+
+`main` 的源码发布工作流调用博客的固定版本共享构建器，验证并上传登记案例的 HTML 产物；博客收集后更新 `/ai-video-reverse/`，触发 Pages。即时通知和定时收集的区别、凭据权限、稳定 URL 与恢复步骤见 [HTML 自动发布规约](../.github/STATIC_PUBLISH.md)。

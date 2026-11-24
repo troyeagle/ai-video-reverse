@@ -1,5 +1,6 @@
 # Machine-local environments and caches
 .DS_Store
+dist/
 .local/
 **/.asr-venv/
 **/.venv/
