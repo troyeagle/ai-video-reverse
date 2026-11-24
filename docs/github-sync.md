@@ -1,4 +1,4 @@
-# GitHub同步准备
+# GitHub同步
 
 ## 用户指定的仓库提交身份
 
@@ -29,15 +29,27 @@ git var GIT_AUTHOR_IDENT
 git var GIT_COMMITTER_IDENT
 ```
 
-## 后续同步
+## 远端核验与同步
 
-在GitHub创建名为 `ai-video-reverse` 的仓库时，保持为空仓库，不额外生成README或初始提交；远端仓库存在后，从工程根目录运行：
+2026-11-24按用户给出的SSH地址执行 `git ls-remote`，命令成功返回且没有任何refs。核验时远端仓库已存在、可访问，并为空仓库，因此无需重新创建。
+
+先前“GitHub仓库尚未创建”的表述没有经过远端核验，应区分“本次操作没有创建仓库”和“远端仓库不存在”。远端状态以实际命令结果为准。
+
+从工程根目录同步主分支：
 
 ```bash
 git push -u origin main
 ```
 
-本轮完成本地仓库与同步目标配置。远端仓库创建和推送尚未执行。
+推送后核对远端 `refs/heads/main` 与本地 `HEAD` 是否相同：
+
+```bash
+git rev-parse HEAD
+git ls-remote origin refs/heads/main
+git status -sb
+```
+
+本地同步结果记录在 `.local/git-state.json`；该文件不进入Git。
 
 ## Git追踪范围
 
