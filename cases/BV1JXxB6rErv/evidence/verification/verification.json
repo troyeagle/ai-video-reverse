@@ -1,0 +1,372 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "checked": false,
+      "outside": [],
+      "cueRows": 1
+    },
+    {
+      "page": 2,
+      "checked": false,
+      "outside": [],
+      "cueRows": 2
+    },
+    {
+      "page": 3,
+      "checked": false,
+      "outside": [],
+      "cueRows": 2
+    },
+    {
+      "page": 4,
+      "checked": false,
+      "outside": [],
+      "cueRows": 3
+    },
+    {
+      "page": 5,
+      "checked": false,
+      "outside": [],
+      "cueRows": 3
+    },
+    {
+      "page": 6,
+      "checked": false,
+      "outside": [],
+      "cueRows": 1
+    },
+    {
+      "page": 7,
+      "checked": false,
+      "outside": [],
+      "cueRows": 3
+    },
+    {
+      "page": 8,
+      "checked": false,
+      "outside": [],
+      "cueRows": 3
+    },
+    {
+      "page": 9,
+      "checked": false,
+      "outside": [],
+      "cueRows": 3
+    },
+    {
+      "page": 10,
+      "checked": false,
+      "outside": [],
+      "cueRows": 4
+    },
+    {
+      "page": 11,
+      "checked": false,
+      "outside": [],
+      "cueRows": 1
+    },
+    {
+      "page": 12,
+      "checked": false,
+      "outside": [],
+      "cueRows": 2
+    },
+    {
+      "page": 13,
+      "checked": false,
+      "outside": [],
+      "cueRows": 1
+    },
+    {
+      "page": 14,
+      "checked": false,
+      "outside": [],
+      "cueRows": 3
+    },
+    {
+      "page": 15,
+      "checked": false,
+      "outside": [],
+      "cueRows": 3
+    },
+    {
+      "page": 16,
+      "checked": false,
+      "outside": [],
+      "cueRows": 2
+    },
+    {
+      "page": 17,
+      "checked": false,
+      "outside": [],
+      "cueRows": 4
+    },
+    {
+      "page": 18,
+      "checked": false,
+      "outside": [],
+      "cueRows": 2
+    },
+    {
+      "page": 19,
+      "checked": false,
+      "outside": [],
+      "cueRows": 4
+    },
+    {
+      "page": 20,
+      "checked": false,
+      "outside": [],
+      "cueRows": 3
+    },
+    {
+      "page": 21,
+      "checked": false,
+      "outside": [],
+      "cueRows": 2
+    },
+    {
+      "page": 22,
+      "checked": false,
+      "outside": [],
+      "cueRows": 5
+    },
+    {
+      "page": 23,
+      "checked": false,
+      "outside": [],
+      "cueRows": 2
+    },
+    {
+      "page": 24,
+      "checked": false,
+      "outside": [],
+      "cueRows": 3
+    },
+    {
+      "page": 25,
+      "checked": false,
+      "outside": [],
+      "cueRows": 3
+    },
+    {
+      "page": 26,
+      "checked": false,
+      "outside": [],
+      "cueRows": 4
+    },
+    {
+      "page": 27,
+      "checked": false,
+      "outside": [],
+      "cueRows": 2
+    },
+    {
+      "page": 28,
+      "checked": false,
+      "outside": [],
+      "cueRows": 1
+    },
+    {
+      "page": 29,
+      "checked": false,
+      "outside": [],
+      "cueRows": 1
+    },
+    {
+      "page": 30,
+      "checked": false,
+      "outside": [],
+      "cueRows": 1
+    },
+    {
+      "page": 1,
+      "checked": true,
+      "outside": [],
+      "cueRows": 1
+    },
+    {
+      "page": 2,
+      "checked": true,
+      "outside": [],
+      "cueRows": 2
+    },
+    {
+      "page": 3,
+      "checked": true,
+      "outside": [],
+      "cueRows": 2
+    },
+    {
+      "page": 4,
+      "checked": true,
+      "outside": [],
+      "cueRows": 3
+    },
+    {
+      "page": 5,
+      "checked": true,
+      "outside": [],
+      "cueRows": 3
+    },
+    {
+      "page": 6,
+      "checked": true,
+      "outside": [],
+      "cueRows": 1
+    },
+    {
+      "page": 7,
+      "checked": true,
+      "outside": [],
+      "cueRows": 3
+    },
+    {
+      "page": 8,
+      "checked": true,
+      "outside": [],
+      "cueRows": 3
+    },
+    {
+      "page": 9,
+      "checked": true,
+      "outside": [],
+      "cueRows": 3
+    },
+    {
+      "page": 10,
+      "checked": true,
+      "outside": [],
+      "cueRows": 4
+    },
+    {
+      "page": 11,
+      "checked": true,
+      "outside": [],
+      "cueRows": 1
+    },
+    {
+      "page": 12,
+      "checked": true,
+      "outside": [],
+      "cueRows": 2
+    },
+    {
+      "page": 13,
+      "checked": true,
+      "outside": [],
+      "cueRows": 1
+    },
+    {
+      "page": 14,
+      "checked": true,
+      "outside": [],
+      "cueRows": 3
+    },
+    {
+      "page": 15,
+      "checked": true,
+      "outside": [],
+      "cueRows": 3
+    },
+    {
+      "page": 16,
+      "checked": true,
+      "outside": [],
+      "cueRows": 2
+    },
+    {
+      "page": 17,
+      "checked": true,
+      "outside": [],
+      "cueRows": 4
+    },
+    {
+      "page": 18,
+      "checked": true,
+      "outside": [],
+      "cueRows": 2
+    },
+    {
+      "page": 19,
+      "checked": true,
+      "outside": [],
+      "cueRows": 4
+    },
+    {
+      "page": 20,
+      "checked": true,
+      "outside": [],
+      "cueRows": 3
+    },
+    {
+      "page": 21,
+      "checked": true,
+      "outside": [],
+      "cueRows": 2
+    },
+    {
+      "page": 22,
+      "checked": true,
+      "outside": [],
+      "cueRows": 5
+    },
+    {
+      "page": 23,
+      "checked": true,
+      "outside": [],
+      "cueRows": 2
+    },
+    {
+      "page": 24,
+      "checked": true,
+      "outside": [],
+      "cueRows": 3
+    },
+    {
+      "page": 25,
+      "checked": true,
+      "outside": [],
+      "cueRows": 3
+    },
+    {
+      "page": 26,
+      "checked": true,
+      "outside": [],
+      "cueRows": 4
+    },
+    {
+      "page": 27,
+      "checked": true,
+      "outside": [],
+      "cueRows": 2
+    },
+    {
+      "page": 28,
+      "checked": true,
+      "outside": [],
+      "cueRows": 1
+    },
+    {
+      "page": 29,
+      "checked": true,
+      "outside": [],
+      "cueRows": 1
+    },
+    {
+      "page": 30,
+      "checked": true,
+      "outside": [],
+      "cueRows": 1
+    }
+  ],
+  "interactions": {
+    "audits": 11,
+    "sources": 3,
+    "cards": 30,
+    "mode": true,
+    "audioReady": 4,
+    "errors": []
+  }
+}

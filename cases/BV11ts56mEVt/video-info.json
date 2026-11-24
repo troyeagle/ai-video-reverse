@@ -1,0 +1,5199 @@
+{
+  "bvid": "BV11ts56mEVt",
+  "aid": 117614693254534,
+  "videos": 1,
+  "tid": 21,
+  "tid_v2": 2087,
+  "tname": "",
+  "tname_v2": "",
+  "copyright": 1,
+  "pic": "http://i2.hdslb.com/bfs/archive/9da131707be2f29769e5bbed2b10f33ffe75d60b.jpg",
+  "title": "地方财政危机指数分省报告解读20261114",
+  "pubdate": 1794658800,
+  "ctime": 1794658096,
+  "desc": "以《地方财政危机指数（LFCRI）分省评估报告（2026 年前三季度）》为底稿，回答三个问题：28 个省份在同一把标尺上各处于什么位置，压力集中在哪些部位，过去一年的分值变动究竟由什么驱动。国家口径首期综合分为 59.4 分，处在黄区上沿；分省结果的均值 58.0 分与之接近，说明分省口径没有系统性抬高或压低压力，但省际离散程度远高于总量指标所暗示的水平。",
+  "desc_v2": [
+    {
+      "raw_text": "以《地方财政危机指数（LFCRI）分省评估报告（2026 年前三季度）》为底稿，回答三个问题：28 个省份在同一把标尺上各处于什么位置，压力集中在哪些部位，过去一年的分值变动究竟由什么驱动。国家口径首期综合分为 59.4 分，处在黄区上沿；分省结果的均值 58.0 分与之接近，说明分省口径没有系统性抬高或压低压力，但省际离散程度远高于总量指标所暗示的水平。",
+      "type": 1,
+      "biz_id": 0
+    }
+  ],
+  "state": 0,
+  "duration": 1181,
+  "rights": {
+    "bp": 0,
+    "elec": 0,
+    "download": 1,
+    "movie": 0,
+    "pay": 0,
+    "hd5": 0,
+    "no_reprint": 1,
+    "autoplay": 1,
+    "ugc_pay": 0,
+    "is_cooperation": 0,
+    "ugc_pay_preview": 0,
+    "no_background": 0,
+    "clean_mode": 0,
+    "is_stein_gate": 0,
+    "is_360": 0,
+    "no_share": 0,
+    "arc_pay": 0,
+    "free_watch": 0
+  },
+  "owner": {
+    "mid": 1408102015,
+    "name": "旷野先声",
+    "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+  },
+  "stat": {
+    "aid": 117614693254534,
+    "view": 41338,
+    "danmaku": 43,
+    "reply": 226,
+    "favorite": 808,
+    "coin": 210,
+    "share": 200,
+    "now_rank": 0,
+    "his_rank": 0,
+    "like": 898,
+    "dislike": 0,
+    "evaluation": "",
+    "vt": 0
+  },
+  "argue_info": {
+    "argue_msg": "",
+    "argue_type": 0,
+    "argue_link": ""
+  },
+  "dynamic": "新节目《地方财政危机指数分省报告解读20261114》上线。构建量化体系，用数据说话，精准把脉各省份地方财政危机。感谢关注！周末愉快！",
+  "cid": 43601233603,
+  "dimension": {
+    "width": 1920,
+    "height": 1080,
+    "rotate": 0
+  },
+  "season_id": 7890155,
+  "premiere": null,
+  "teenage_mode": 1,
+  "is_chargeable_season": false,
+  "is_story": false,
+  "is_upower_exclusive": false,
+  "is_upower_play": false,
+  "is_upower_preview": false,
+  "enable_vt": 0,
+  "vt_display": "",
+  "is_upower_exclusive_with_qa": false,
+  "is_hua_sheng": false,
+  "no_cache": false,
+  "pages": [
+    {
+      "cid": 43601233603,
+      "page": 1,
+      "from": "vupload",
+      "part": "地方财政危机指数分省报告解读20261114",
+      "duration": 1181,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i2.hdslb.com/bfs/storyff/_00000qgjv79112es824nz3lga3jw4fb_firsti.jpg",
+      "ctime": 1794658096,
+      "asr_language": "cmn"
+    }
+  ],
+  "subtitle": {
+    "allow_submit": false,
+    "list": []
+  },
+  "ugc_season": {
+    "id": 7890155,
+    "title": "热点话题➕信仰历史",
+    "cover": "https://archive.biliimg.com/bfs/archive/3050af459650492533182fe78c9dc50559f538ba.jpg",
+    "mid": 1408102015,
+    "intro": "合集前半部分主要介绍来华传教士、教会历史与信仰理论讨论。后半部分主要是当下社会热点话题。请各取所需，感谢关注！",
+    "sign_state": 0,
+    "attribute": 140,
+    "stat": {
+      "season_id": 7890155,
+      "view": 805055,
+      "danmaku": 1418,
+      "reply": 7059,
+      "fav": 10033,
+      "coin": 2982,
+      "share": 2703,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 19156,
+      "vt": 0,
+      "vv": 805055
+    },
+    "ep_count": 48,
+    "season_type": 1,
+    "is_pay_season": false,
+    "enable_vt": 0,
+    "sections": [
+      {
+        "season_id": 7890155,
+        "id": 8764987,
+        "title": "正片",
+        "type": 1,
+        "episodes": [
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 226638419,
+            "aid": 117406588537291,
+            "cid": 42576445501,
+            "title": "2026出生人口大局已定20261009",
+            "attribute": 0,
+            "arc": {
+              "aid": 117406588537291,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i2.hdslb.com/bfs/archive/d255da05a81ee9320c49c722138412cd7d17ea64.jpg",
+              "title": "2026出生人口大局已定20261009",
+              "pubdate": 1791549000,
+              "ctime": 1791549000,
+              "desc": "",
+              "state": 0,
+              "duration": 806,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 117406588537291,
+                "view": 348411,
+                "danmaku": 772,
+                "reply": 2843,
+                "fav": 2271,
+                "coin": 850,
+                "share": 572,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 6207,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 348411
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 42576445501,
+              "page": 1,
+              "from": "vupload",
+              "part": "2026出生人口大局已定20261009",
+              "duration": 806,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1GcHd6iEqS",
+            "pages": [
+              {
+                "cid": 42576445501,
+                "page": 1,
+                "from": "vupload",
+                "part": "2026出生人口大局已定20261009",
+                "duration": 806,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 234786724,
+            "aid": 117652643187159,
+            "cid": 43786110732,
+            "title": "地方隐性债务化解成功了吗？20261121",
+            "attribute": 0,
+            "arc": {
+              "aid": 117652643187159,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i0.hdslb.com/bfs/archive/be157981ad15a2f118b6a41cc6dc030fe2cb761f.jpg",
+              "title": "地方隐性债务化解成功了吗？20261121",
+              "pubdate": 1795262400,
+              "ctime": 1795262400,
+              "desc": "",
+              "state": 0,
+              "duration": 931,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 117652643187159,
+                "view": 3226,
+                "danmaku": 3,
+                "reply": 32,
+                "fav": 80,
+                "coin": 22,
+                "share": 10,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 178,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 3226
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 43786110732,
+              "page": 1,
+              "from": "vupload",
+              "part": "地方隐性债务化解成功了吗？20261121",
+              "duration": 931,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1r7y8zEETp",
+            "pages": [
+              {
+                "cid": 43786110732,
+                "page": 1,
+                "from": "vupload",
+                "part": "地方隐性债务化解成功了吗？20261121",
+                "duration": 931,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 232645329,
+            "aid": 117586322786065,
+            "cid": 43464525011,
+            "title": "地方政府能否破产？财政危机下的路径抉择20261113",
+            "attribute": 0,
+            "arc": {
+              "aid": 117586322786065,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i1.hdslb.com/bfs/archive/0d90f2e36a4e4cb00e929198b8d9a068dd270ee3.jpg",
+              "title": "地方政府能否破产？财政危机下的路径抉择20261113",
+              "pubdate": 1795177200,
+              "ctime": 1795177200,
+              "desc": "",
+              "state": 0,
+              "duration": 759,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 117586322786065,
+                "view": 2675,
+                "danmaku": 5,
+                "reply": 15,
+                "fav": 47,
+                "coin": 8,
+                "share": 5,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 147,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 2675
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 43464525011,
+              "page": 1,
+              "from": "vupload",
+              "part": "地方政府能否破产？财政危机下的路径抉择20261113",
+              "duration": 759,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1UoW46HEP5",
+            "pages": [
+              {
+                "cid": 43464525011,
+                "page": 1,
+                "from": "vupload",
+                "part": "地方政府能否破产？财政危机下的路径抉择20261113",
+                "duration": 759,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 233626063,
+            "aid": 117614693254534,
+            "cid": 43601233603,
+            "title": "地方财政危机指数分省报告解读20261114",
+            "attribute": 0,
+            "arc": {
+              "aid": 117614693254534,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i2.hdslb.com/bfs/archive/9da131707be2f29769e5bbed2b10f33ffe75d60b.jpg",
+              "title": "地方财政危机指数分省报告解读20261114",
+              "pubdate": 1794658800,
+              "ctime": 1794658800,
+              "desc": "",
+              "state": 0,
+              "duration": 1181,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 117614693254534,
+                "view": 41338,
+                "danmaku": 43,
+                "reply": 226,
+                "fav": 808,
+                "coin": 210,
+                "share": 200,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 898,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 41338
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 43601233603,
+              "page": 1,
+              "from": "vupload",
+              "part": "地方财政危机指数分省报告解读20261114",
+              "duration": 1181,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV11ts56mEVt",
+            "pages": [
+              {
+                "cid": 43601233603,
+                "page": 1,
+                "from": "vupload",
+                "part": "地方财政危机指数分省报告解读20261114",
+                "duration": 1181,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 233081958,
+            "aid": 117599459346079,
+            "cid": 43526262404,
+            "title": "地方财政危机指数（LFCRI）首期发布与解读20261113",
+            "attribute": 0,
+            "arc": {
+              "aid": 117599459346079,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i1.hdslb.com/bfs/archive/522acd0c8b4ca88111c30f489083d4b4fd093504.jpg",
+              "title": "地方财政危机指数（LFCRI）首期发布与解读20261113",
+              "pubdate": 1794572400,
+              "ctime": 1794572400,
+              "desc": "",
+              "state": 0,
+              "duration": 890,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 117599459346079,
+                "view": 9979,
+                "danmaku": 8,
+                "reply": 62,
+                "fav": 211,
+                "coin": 40,
+                "share": 32,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 293,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 9979
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 43526262404,
+              "page": 1,
+              "from": "vupload",
+              "part": "地方财政危机指数（LFCRI）首期发布与解读20261113",
+              "duration": 890,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV19tWD6bEVE",
+            "pages": [
+              {
+                "cid": 43526262404,
+                "page": 1,
+                "from": "vupload",
+                "part": "地方财政危机指数（LFCRI）首期发布与解读20261113",
+                "duration": 890,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 229313264,
+            "aid": 117488494840851,
+            "cid": 42975168392,
+            "title": "2027政府债务预增13.8万亿，超美登顶！20261030",
+            "attribute": 0,
+            "arc": {
+              "aid": 117488494840851,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i1.hdslb.com/bfs/archive/584dd67c556beae4c8596a6a37601cef69d5bab4.jpg",
+              "title": "2027政府债务预增13.8万亿，超美登顶！20261030",
+              "pubdate": 1793967600,
+              "ctime": 1793967600,
+              "desc": "",
+              "state": 0,
+              "duration": 931,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 117488494840851,
+                "view": 46749,
+                "danmaku": 45,
+                "reply": 461,
+                "fav": 674,
+                "coin": 148,
+                "share": 349,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 1031,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 46749
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 42975168392,
+              "page": 1,
+              "from": "vupload",
+              "part": "2027政府债务预增13.8万亿，超美登顶！20261030",
+              "duration": 931,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1nWn46PE1S",
+            "pages": [
+              {
+                "cid": 42975168392,
+                "page": 1,
+                "from": "vupload",
+                "part": "2027政府债务预增13.8万亿，超美登顶！20261030",
+                "duration": 931,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 227975960,
+            "aid": 117448581908862,
+            "cid": 42782294650,
+            "title": "工薪族实际税收负担率＞25%【20261023】",
+            "attribute": 0,
+            "arc": {
+              "aid": 117448581908862,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i0.hdslb.com/bfs/archive/d0e0a6a73224723c34dff8dd904d711d6d409688.jpg",
+              "title": "工薪族实际税收负担率＞25%【20261023】",
+              "pubdate": 1792758000,
+              "ctime": 1792758000,
+              "desc": "",
+              "state": 0,
+              "duration": 994,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 117448581908862,
+                "view": 15354,
+                "danmaku": 23,
+                "reply": 87,
+                "fav": 352,
+                "coin": 220,
+                "share": 161,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 806,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 15354
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 42782294650,
+              "page": 1,
+              "from": "vupload",
+              "part": "工薪族实际税收负担率＞25%【20261023】",
+              "duration": 994,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1WRJD6TEtA",
+            "pages": [
+              {
+                "cid": 42782294650,
+                "page": 1,
+                "from": "vupload",
+                "part": "工薪族实际税收负担率＞25%【20261023】",
+                "duration": 994,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 227562698,
+            "aid": 117434455426250,
+            "cid": 42716431601,
+            "title": "财政部5500亿急救基层危局20261016",
+            "attribute": 0,
+            "arc": {
+              "aid": 117434455426250,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i2.hdslb.com/bfs/archive/5a9aea6c4ed1c4a2357d94ddc7f81a31258183fa.jpg",
+              "title": "财政部5500亿急救基层危局20261016",
+              "pubdate": 1792153800,
+              "ctime": 1792153800,
+              "desc": "",
+              "state": 0,
+              "duration": 739,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 117434455426250,
+                "view": 20156,
+                "danmaku": 9,
+                "reply": 87,
+                "fav": 293,
+                "coin": 40,
+                "share": 89,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 432,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 20156
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 42716431601,
+              "page": 1,
+              "from": "vupload",
+              "part": "财政部5500亿急救基层危局20261016",
+              "duration": 739,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1xVpz6jEBt",
+            "pages": [
+              {
+                "cid": 42716431601,
+                "page": 1,
+                "from": "vupload",
+                "part": "财政部5500亿急救基层危局20261016",
+                "duration": 739,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 225431114,
+            "aid": 117369024416560,
+            "cid": 42385149056,
+            "title": "虚增人口：骗取转移支付20261003",
+            "attribute": 0,
+            "arc": {
+              "aid": 117369024416560,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i2.hdslb.com/bfs/archive/3c0935d48926954a80138e3cae294c4b02cd9ac1.jpg",
+              "title": "虚增人口：骗取转移支付20261003",
+              "pubdate": 1791030600,
+              "ctime": 1791030600,
+              "desc": "",
+              "state": 0,
+              "duration": 722,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 117369024416560,
+                "view": 45098,
+                "danmaku": 43,
+                "reply": 486,
+                "fav": 1003,
+                "coin": 187,
+                "share": 305,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 1502,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 45098
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 42385149056,
+              "page": 1,
+              "from": "vupload",
+              "part": "虚增人口：骗取转移支付20261003",
+              "duration": 722,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1fda165E8N",
+            "pages": [
+              {
+                "cid": 42385149056,
+                "page": 1,
+                "from": "vupload",
+                "part": "虚增人口：骗取转移支付20261003",
+                "duration": 722,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 226033273,
+            "aid": 117388200643450,
+            "cid": 42485747140,
+            "title": "危急时刻：多数家庭存款不足5万20261005",
+            "attribute": 0,
+            "arc": {
+              "aid": 117388200643450,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i0.hdslb.com/bfs/archive/dfb1d2a651a01816810877c2969a778243d43010.jpg",
+              "title": "危急时刻：多数家庭存款不足5万20261005",
+              "pubdate": 1791203400,
+              "ctime": 1791203400,
+              "desc": "",
+              "state": 0,
+              "duration": 739,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 117388200643450,
+                "view": 33529,
+                "danmaku": 93,
+                "reply": 201,
+                "fav": 353,
+                "coin": 116,
+                "share": 100,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 788,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 33529
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 42485747140,
+              "page": 1,
+              "from": "vupload",
+              "part": "危急时刻：多数家庭存款不足5万20261005",
+              "duration": 739,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV14FH46CEb7",
+            "pages": [
+              {
+                "cid": 42485747140,
+                "page": 1,
+                "from": "vupload",
+                "part": "危急时刻：多数家庭存款不足5万20261005",
+                "duration": 739,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 224512199,
+            "aid": 117341073443355,
+            "cid": 42238411701,
+            "title": "调休促内需，百姓不买账20260930",
+            "attribute": 0,
+            "arc": {
+              "aid": 117341073443355,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i0.hdslb.com/bfs/archive/6cf3ebb620327b98fa4d372c794a63010d901376.jpg",
+              "title": "调休促内需，百姓不买账20260930",
+              "pubdate": 1790771400,
+              "ctime": 1790771400,
+              "desc": "",
+              "state": 0,
+              "duration": 912,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 117341073443355,
+                "view": 59869,
+                "danmaku": 229,
+                "reply": 662,
+                "fav": 332,
+                "coin": 112,
+                "share": 69,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 1242,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 59869
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 42238411701,
+              "page": 1,
+              "from": "vupload",
+              "part": "调休促内需，百姓不买账20260930",
+              "duration": 912,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1Lhab64Ehr",
+            "pages": [
+              {
+                "cid": 42238411701,
+                "page": 1,
+                "from": "vupload",
+                "part": "调休促内需，百姓不买账20260930",
+                "duration": 912,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 222706136,
+            "aid": 117282202192469,
+            "cid": 41955557426,
+            "title": "官方失业率5.3%与广义失业率16.9%-20260918",
+            "attribute": 0,
+            "arc": {
+              "aid": 117282202192469,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i2.hdslb.com/bfs/archive/3c52bb347552c91d3603ac88fdb1c3a4d14a9d30.jpg",
+              "title": "官方失业率5.3%与广义失业率16.9%-20260918",
+              "pubdate": 1789734600,
+              "ctime": 1789734600,
+              "desc": "",
+              "state": 0,
+              "duration": 775,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 117282202192469,
+                "view": 59819,
+                "danmaku": 27,
+                "reply": 356,
+                "fav": 620,
+                "coin": 148,
+                "share": 221,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 1356,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 59819
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 41955557426,
+              "page": 1,
+              "from": "vupload",
+              "part": "官方失业率5.3%与广义失业率16.9%-20260918",
+              "duration": 775,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1sPeN6yEd4",
+            "pages": [
+              {
+                "cid": 41955557426,
+                "page": 1,
+                "from": "vupload",
+                "part": "官方失业率5.3%与广义失业率16.9%-20260918",
+                "duration": 775,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 202936938,
+            "aid": 116771302410279,
+            "cid": 39218842023,
+            "title": "2050年中国人口规模推演研究20260618",
+            "attribute": 0,
+            "arc": {
+              "aid": 116771302410279,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i1.hdslb.com/bfs/archive/c3c455f7f0b2cd25919f56cc169c2104518d54cf.jpg",
+              "title": "2050年中国人口规模推演研究20260618",
+              "pubdate": 1781788807,
+              "ctime": 1781788807,
+              "desc": "",
+              "state": 0,
+              "duration": 985,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 116771302410279,
+                "view": 48067,
+                "danmaku": 41,
+                "reply": 850,
+                "fav": 868,
+                "coin": 179,
+                "share": 140,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 1099,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 48067
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 39218842023,
+              "page": 1,
+              "from": "vupload",
+              "part": "2050年中国人口规模推演研究20260618",
+              "duration": 985,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1V6jw6rEXC",
+            "pages": [
+              {
+                "cid": 39218842023,
+                "page": 1,
+                "from": "vupload",
+                "part": "2050年中国人口规模推演研究20260618",
+                "duration": 985,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 209219264,
+            "aid": 116930065204471,
+            "cid": 40014315913,
+            "title": "断缴or延续：灵活就业者社保最优抉择20260717",
+            "attribute": 0,
+            "arc": {
+              "aid": 116930065204471,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i1.hdslb.com/bfs/archive/d5ee6ebe8c8ff738c5bd10ff18c088c298eb39fb.jpg",
+              "title": "断缴or延续：灵活就业者社保最优抉择20260717",
+              "pubdate": 1784291400,
+              "ctime": 1784291400,
+              "desc": "",
+              "state": 0,
+              "duration": 1177,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 116930065204471,
+                "view": 8832,
+                "danmaku": 16,
+                "reply": 90,
+                "fav": 214,
+                "coin": 37,
+                "share": 66,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 229,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 8832
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 40014315913,
+              "page": 1,
+              "from": "vupload",
+              "part": "断缴or延续：灵活就业者社保最优抉择20260717",
+              "duration": 1177,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1QkKV6kEpj",
+            "pages": [
+              {
+                "cid": 40014315913,
+                "page": 1,
+                "from": "vupload",
+                "part": "断缴or延续：灵活就业者社保最优抉择20260717",
+                "duration": 1177,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 212326971,
+            "aid": 117003180310768,
+            "cid": 40411661901,
+            "title": "免费医疗离我们有多远20260731",
+            "attribute": 0,
+            "arc": {
+              "aid": 117003180310768,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i0.hdslb.com/bfs/archive/46de0652be3a6aa1d0241c154a5b811914bfe328.jpg",
+              "title": "免费医疗离我们有多远20260731",
+              "pubdate": 1785501000,
+              "ctime": 1785501000,
+              "desc": "",
+              "state": 0,
+              "duration": 1590,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 117003180310768,
+                "view": 3344,
+                "danmaku": 5,
+                "reply": 41,
+                "fav": 26,
+                "coin": 19,
+                "share": 4,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 91,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 3344
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 40411661901,
+              "page": 1,
+              "from": "vupload",
+              "part": "免费医疗离我们有多远20260731",
+              "duration": 1590,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1t8316zEH8",
+            "pages": [
+              {
+                "cid": 40411661901,
+                "page": 1,
+                "from": "vupload",
+                "part": "免费医疗离我们有多远20260731",
+                "duration": 1590,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 224827121,
+            "aid": 117349512448876,
+            "cid": 42284483747,
+            "title": "鸡蛋价格还要涨多久20261009",
+            "attribute": 0,
+            "arc": {
+              "aid": 117349512448876,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i2.hdslb.com/bfs/archive/04cdbab1e3aa78fc234a9daf3cd997c817917aa6.jpg",
+              "title": "鸡蛋价格还要涨多久20261009",
+              "pubdate": 1790857800,
+              "ctime": 1790857800,
+              "desc": "",
+              "state": 0,
+              "duration": 866,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 117349512448876,
+                "view": 6423,
+                "danmaku": 2,
+                "reply": 73,
+                "fav": 34,
+                "coin": 10,
+                "share": 9,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 154,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 6423
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 42284483747,
+              "page": 1,
+              "from": "vupload",
+              "part": "鸡蛋价格还要涨多久20261009",
+              "duration": 866,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1cLaL6cEUR",
+            "pages": [
+              {
+                "cid": 42284483747,
+                "page": 1,
+                "from": "vupload",
+                "part": "鸡蛋价格还要涨多久20261009",
+                "duration": 866,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 218924230,
+            "aid": 117161725003940,
+            "cid": 41292071856,
+            "title": "苏联解体后地方财政如何自救20260826",
+            "attribute": 0,
+            "arc": {
+              "aid": 117161725003940,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i2.hdslb.com/bfs/archive/3e8248969f5fc899936ecee79a94eea472542e34.jpg",
+              "title": "苏联解体后地方财政如何自救20260826",
+              "pubdate": 1787920200,
+              "ctime": 1787920200,
+              "desc": "",
+              "state": 0,
+              "duration": 1293,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 117161725003940,
+                "view": 3506,
+                "danmaku": 4,
+                "reply": 5,
+                "fav": 112,
+                "coin": 22,
+                "share": 9,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 143,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 3506
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 41292071856,
+              "page": 1,
+              "from": "vupload",
+              "part": "苏联解体后地方财政如何自救20260826",
+              "duration": 1293,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1Z78d6AEe8",
+            "pages": [
+              {
+                "cid": 41292071856,
+                "page": 1,
+                "from": "vupload",
+                "part": "苏联解体后地方财政如何自救20260826",
+                "duration": 1293,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 214294400,
+            "aid": 117049468652439,
+            "cid": 40663059335,
+            "title": "原子化生存：驱动机制、多维危害与重构路径20260807",
+            "attribute": 0,
+            "arc": {
+              "aid": 117049468652439,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i2.hdslb.com/bfs/archive/f5993124916a581362806035cf9a4002547e8efd.jpg",
+              "title": "原子化生存：驱动机制、多维危害与重构路径20260807",
+              "pubdate": 1786105800,
+              "ctime": 1786105800,
+              "desc": "",
+              "state": 0,
+              "duration": 921,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 117049468652439,
+                "view": 1936,
+                "danmaku": 2,
+                "reply": 12,
+                "fav": 18,
+                "coin": 5,
+                "share": 7,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 64,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 1936
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 40663059335,
+              "page": 1,
+              "from": "vupload",
+              "part": "原子化生存：驱动机制、多维危害与重构路径20260807",
+              "duration": 921,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1KQun6hEbG",
+            "pages": [
+              {
+                "cid": 40663059335,
+                "page": 1,
+                "from": "vupload",
+                "part": "原子化生存：驱动机制、多维危害与重构路径20260807",
+                "duration": 921,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 217826893,
+            "aid": 117133069517966,
+            "cid": 41129412697,
+            "title": "个人档案管理的认知误区与合规处置20260821",
+            "attribute": 0,
+            "arc": {
+              "aid": 117133069517966,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i2.hdslb.com/bfs/archive/6179d7700bc544dc6e5803abb900bff28bb445d9.jpg",
+              "title": "个人档案管理的认知误区与合规处置20260821",
+              "pubdate": 1787315400,
+              "ctime": 1787315400,
+              "desc": "",
+              "state": 0,
+              "duration": 1052,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 117133069517966,
+                "view": 1233,
+                "danmaku": 0,
+                "reply": 2,
+                "fav": 8,
+                "coin": 3,
+                "share": 3,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 46,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 1233
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 41129412697,
+              "page": 1,
+              "from": "vupload",
+              "part": "个人档案管理的认知误区与合规处置20260821",
+              "duration": 1052,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1y38q6sEn7",
+            "pages": [
+              {
+                "cid": 41129412697,
+                "page": 1,
+                "from": "vupload",
+                "part": "个人档案管理的认知误区与合规处置20260821",
+                "duration": 1052,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 230101992,
+            "aid": 117511479625594,
+            "cid": 43091689783,
+            "title": "梵二会议：现代宗教改革的里程碑20261031",
+            "attribute": 0,
+            "arc": {
+              "aid": 117511479625594,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i1.hdslb.com/bfs/archive/8c0ec2c8fca41c04fcea13e27f8672de5ec3a466.jpg",
+              "title": "梵二会议：现代宗教改革的里程碑20261031",
+              "pubdate": 1793449200,
+              "ctime": 1793449200,
+              "desc": "",
+              "state": 0,
+              "duration": 834,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 117511479625594,
+                "view": 1709,
+                "danmaku": 3,
+                "reply": 7,
+                "fav": 84,
+                "coin": 14,
+                "share": 8,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 137,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 1709
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 43091689783,
+              "page": 1,
+              "from": "vupload",
+              "part": "梵二会议：现代宗教改革的里程碑20261031",
+              "duration": 834,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1bqxM6gEDT",
+            "pages": [
+              {
+                "cid": 43091689783,
+                "page": 1,
+                "from": "vupload",
+                "part": "梵二会议：现代宗教改革的里程碑20261031",
+                "duration": 834,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 222789738,
+            "aid": 117285440195341,
+            "cid": 41969256535,
+            "title": "世俗化冲击与信仰再造20260925",
+            "attribute": 0,
+            "arc": {
+              "aid": 117285440195341,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i2.hdslb.com/bfs/archive/2e1107b54f5d006af75c99564ccfaca86a99aa74.jpg",
+              "title": "世俗化冲击与信仰再造20260925",
+              "pubdate": 1790339400,
+              "ctime": 1790339400,
+              "desc": "",
+              "state": 0,
+              "duration": 864,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 117285440195341,
+                "view": 3296,
+                "danmaku": 2,
+                "reply": 14,
+                "fav": 55,
+                "coin": 25,
+                "share": 8,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 112,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 3296
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 41969256535,
+              "page": 1,
+              "from": "vupload",
+              "part": "世俗化冲击与信仰再造20260925",
+              "duration": 864,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1Aoeu6REDZ",
+            "pages": [
+              {
+                "cid": 41969256535,
+                "page": 1,
+                "from": "vupload",
+                "part": "世俗化冲击与信仰再造20260925",
+                "duration": 864,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 219856514,
+            "aid": 117189877173171,
+            "cid": 41463515724,
+            "title": "消失的主日学：基督教如何退出现代基础教育20260904",
+            "attribute": 0,
+            "arc": {
+              "aid": 117189877173171,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i2.hdslb.com/bfs/archive/015f47de51b950ef264981dfec527355fbc69cad.jpg",
+              "title": "消失的主日学：基督教如何退出现代基础教育20260904",
+              "pubdate": 1788525000,
+              "ctime": 1788525000,
+              "desc": "",
+              "state": 0,
+              "duration": 1163,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 117189877173171,
+                "view": 3627,
+                "danmaku": 2,
+                "reply": 30,
+                "fav": 180,
+                "coin": 15,
+                "share": 40,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 137,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 3627
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 41463515724,
+              "page": 1,
+              "from": "vupload",
+              "part": "消失的主日学：基督教如何退出现代基础教育20260904",
+              "duration": 1163,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1nMt864EzG",
+            "pages": [
+              {
+                "cid": 41463515724,
+                "page": 1,
+                "from": "vupload",
+                "part": "消失的主日学：基督教如何退出现代基础教育20260904",
+                "duration": 1163,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 225259780,
+            "aid": 117363571754696,
+            "cid": 42357754873,
+            "title": "政教分立 or“政教分离”20261009",
+            "attribute": 0,
+            "arc": {
+              "aid": 117363571754696,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i1.hdslb.com/bfs/archive/927c95d24c48b031f660ac1fb51311562b7a9ed7.jpg",
+              "title": "政教分立 or“政教分离”20261009",
+              "pubdate": 1791980400,
+              "ctime": 1791980400,
+              "desc": "",
+              "state": 0,
+              "duration": 879,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 117363571754696,
+                "view": 1373,
+                "danmaku": 1,
+                "reply": 2,
+                "fav": 27,
+                "coin": 21,
+                "share": 10,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 112,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 1373
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 42357754873,
+              "page": 1,
+              "from": "vupload",
+              "part": "政教分立 or“政教分离”20261009",
+              "duration": 879,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1PBYP6zEtB",
+            "pages": [
+              {
+                "cid": 42357754873,
+                "page": 1,
+                "from": "vupload",
+                "part": "政教分立 or“政教分离”20261009",
+                "duration": 879,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 220729756,
+            "aid": 117217995785733,
+            "cid": 41608547583,
+            "title": "顺服 OR 反抗：基督教抵抗神学与现代宪政20260911",
+            "attribute": 0,
+            "arc": {
+              "aid": 117217995785733,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i0.hdslb.com/bfs/archive/c7e4c9815d5851da75901a679ee73d64021c5f4e.jpg",
+              "title": "顺服 OR 反抗：基督教抵抗神学与现代宪政20260911",
+              "pubdate": 1789129800,
+              "ctime": 1789129800,
+              "desc": "",
+              "state": 0,
+              "duration": 1216,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 117217995785733,
+                "view": 3906,
+                "danmaku": 2,
+                "reply": 12,
+                "fav": 106,
+                "coin": 40,
+                "share": 17,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 119,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 3906
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 41608547583,
+              "page": 1,
+              "from": "vupload",
+              "part": "顺服 OR 反抗：基督教抵抗神学与现代宪政20260911",
+              "duration": 1216,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1e3t26bE9w",
+            "pages": [
+              {
+                "cid": 41608547583,
+                "page": 1,
+                "from": "vupload",
+                "part": "顺服 OR 反抗：基督教抵抗神学与现代宪政20260911",
+                "duration": 1216,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 215969083,
+            "aid": 117089029328141,
+            "cid": 40883717795,
+            "title": "瑞典瑞华会（SMC）的创立与发展（1887–1950）20260814",
+            "attribute": 0,
+            "arc": {
+              "aid": 117089029328141,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i0.hdslb.com/bfs/archive/74e6fe836f39ef5c536123abae34175a4e47d159.jpg",
+              "title": "瑞典瑞华会（SMC）的创立与发展（1887–1950）20260814",
+              "pubdate": 1786710600,
+              "ctime": 1786710600,
+              "desc": "",
+              "state": 0,
+              "duration": 1014,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 117089029328141,
+                "view": 897,
+                "danmaku": 0,
+                "reply": 2,
+                "fav": 2,
+                "coin": 0,
+                "share": 0,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 49,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 897
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 40883717795,
+              "page": 1,
+              "from": "vupload",
+              "part": "瑞典瑞华会（SMC）的创立与发展（1887–1950）20260814",
+              "duration": 1014,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1Wugs6zEDF",
+            "pages": [
+              {
+                "cid": 40883717795,
+                "page": 1,
+                "from": "vupload",
+                "part": "瑞典瑞华会（SMC）的创立与发展（1887–1950）20260814",
+                "duration": 1014,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 207115363,
+            "aid": 116878492043205,
+            "cid": 39761151909,
+            "title": "近代对外来信仰的社会反馈与历史命运20260710",
+            "attribute": 0,
+            "arc": {
+              "aid": 116878492043205,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i1.hdslb.com/bfs/archive/f6f04d8ca2bc3c4c0e65f9cc08c7308cec73f3bf.jpg",
+              "title": "近代对外来信仰的社会反馈与历史命运20260710",
+              "pubdate": 1783686600,
+              "ctime": 1783686600,
+              "desc": "",
+              "state": 0,
+              "duration": 752,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 116878492043205,
+                "view": 1799,
+                "danmaku": 0,
+                "reply": 2,
+                "fav": 24,
+                "coin": 9,
+                "share": 3,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 70,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 1799
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 39761151909,
+              "page": 1,
+              "from": "vupload",
+              "part": "7月8日",
+              "duration": 752,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1baMb6pE9K",
+            "pages": [
+              {
+                "cid": 39761151909,
+                "page": 1,
+                "from": "vupload",
+                "part": "7月8日",
+                "duration": 752,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 206902951,
+            "aid": 116873022669804,
+            "cid": 39706167433,
+            "title": "晚清基层秩序重构与教案冲突（过审版）20260706",
+            "attribute": 0,
+            "arc": {
+              "aid": 116873022669804,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i0.hdslb.com/bfs/archive/e41b3819e6ad9668d3f874c99e763cf2efa7ba1e.jpg",
+              "title": "晚清基层秩序重构与教案冲突（过审版）20260706",
+              "pubdate": 1783342200,
+              "ctime": 1783342200,
+              "desc": "",
+              "state": 0,
+              "duration": 1599,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 116873022669804,
+                "view": 1461,
+                "danmaku": 1,
+                "reply": 8,
+                "fav": 60,
+                "coin": 13,
+                "share": 5,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 86,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 1461
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 39706167433,
+              "page": 1,
+              "from": "vupload",
+              "part": "晚清基层秩序重构与教案冲突（过审版）20260706",
+              "duration": 1599,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1UDT96pE2k",
+            "pages": [
+              {
+                "cid": 39706167433,
+                "page": 1,
+                "from": "vupload",
+                "part": "晚清基层秩序重构与教案冲突（过审版）20260706",
+                "duration": 1599,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 204019370,
+            "aid": 116799555241903,
+            "cid": 39345389872,
+            "title": "近代跨文化交流与社会服务研究（下）20260703",
+            "attribute": 0,
+            "arc": {
+              "aid": 116799555241903,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i1.hdslb.com/bfs/archive/eb8c6256f3a40c3755122f7c8935edcf8cf74c93.jpg",
+              "title": "近代跨文化交流与社会服务研究（下）20260703",
+              "pubdate": 1783081200,
+              "ctime": 1783081200,
+              "desc": "",
+              "state": 0,
+              "duration": 1695,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 116799555241903,
+                "view": 906,
+                "danmaku": 0,
+                "reply": 6,
+                "fav": 5,
+                "coin": 6,
+                "share": 1,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 45,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 906
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 39345389872,
+              "page": 1,
+              "from": "vupload",
+              "part": "近代跨文化交流与社会服务研究（下）20260703",
+              "duration": 1695,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV17ZjU61EyE",
+            "pages": [
+              {
+                "cid": 39345389872,
+                "page": 1,
+                "from": "vupload",
+                "part": "近代跨文化交流与社会服务研究（下）20260703",
+                "duration": 1695,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 203773636,
+            "aid": 116793448333662,
+            "cid": 39315834581,
+            "title": "近代跨文化交流与社会服务研究（上）20260626",
+            "attribute": 0,
+            "arc": {
+              "aid": 116793448333662,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i1.hdslb.com/bfs/archive/d864b92a4f5912fd0c21638150a3c6c6e76eeed6.jpg",
+              "title": "近代跨文化交流与社会服务研究（上）20260626",
+              "pubdate": 1782476400,
+              "ctime": 1782476400,
+              "desc": "",
+              "state": 0,
+              "duration": 1350,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 116793448333662,
+                "view": 961,
+                "danmaku": 0,
+                "reply": 8,
+                "fav": 21,
+                "coin": 15,
+                "share": 0,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 65,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 961
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 39315834581,
+              "page": 1,
+              "from": "vupload",
+              "part": "近代跨文化交流与社会服务研究（上）20260622",
+              "duration": 1350,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1xV7K6zETy",
+            "pages": [
+              {
+                "cid": 39315834581,
+                "page": 1,
+                "from": "vupload",
+                "part": "近代跨文化交流与社会服务研究（上）20260622",
+                "duration": 1350,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 201411934,
+            "aid": 116731590740867,
+            "cid": 39040713338,
+            "title": "戴德生与中国内地会3：终局撤离与世纪遗产20260612",
+            "attribute": 0,
+            "arc": {
+              "aid": 116731590740867,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i1.hdslb.com/bfs/archive/323277880fb09f857e093b7dd7cfe26511547b49.jpg",
+              "title": "戴德生与中国内地会3：终局撤离与世纪遗产20260612",
+              "pubdate": 1781266800,
+              "ctime": 1781266800,
+              "desc": "",
+              "state": 0,
+              "duration": 1107,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 116731590740867,
+                "view": 1832,
+                "danmaku": 1,
+                "reply": 23,
+                "fav": 28,
+                "coin": 12,
+                "share": 2,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 74,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 1832
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 39040713338,
+              "page": 1,
+              "from": "vupload",
+              "part": "戴德生与中国内地会3：终局撤离与世纪遗产20260612",
+              "duration": 1107,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1MhEi6YEwP",
+            "pages": [
+              {
+                "cid": 39040713338,
+                "page": 1,
+                "from": "vupload",
+                "part": "戴德生与中国内地会3：终局撤离与世纪遗产20260612",
+                "duration": 1107,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 200071840,
+            "aid": 116697080008551,
+            "cid": 38880805843,
+            "title": "戴德生与中国内地会2：社会嵌入与历史勃兴20260605",
+            "attribute": 0,
+            "arc": {
+              "aid": 116697080008551,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i2.hdslb.com/bfs/archive/301f3c9eb0e51e8987d2a008aa07b1601e212ccc.jpg",
+              "title": "戴德生与中国内地会2：社会嵌入与历史勃兴20260605",
+              "pubdate": 1780661700,
+              "ctime": 1780661700,
+              "desc": "",
+              "state": 0,
+              "duration": 849,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 116697080008551,
+                "view": 1121,
+                "danmaku": 1,
+                "reply": 7,
+                "fav": 23,
+                "coin": 15,
+                "share": 2,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 69,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 1121
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 38880805843,
+              "page": 1,
+              "from": "vupload",
+              "part": "戴德生与中国内地会2：社会嵌入与历史勃兴20260605",
+              "duration": 849,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1gU7k6HEzY",
+            "pages": [
+              {
+                "cid": 38880805843,
+                "page": 1,
+                "from": "vupload",
+                "part": "戴德生与中国内地会2：社会嵌入与历史勃兴20260605",
+                "duration": 849,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 198609190,
+            "aid": 116657938826983,
+            "cid": 38701828219,
+            "title": "戴德生与中国内地会的创立及其运作2026529",
+            "attribute": 0,
+            "arc": {
+              "aid": 116657938826983,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i0.hdslb.com/bfs/archive/2c3811e672a71078548cef760e9fd55a5d1b7b11.jpg",
+              "title": "戴德生与中国内地会的创立及其运作2026529",
+              "pubdate": 1780059271,
+              "ctime": 1780059271,
+              "desc": "",
+              "state": 0,
+              "duration": 1052,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 116657938826983,
+                "view": 1336,
+                "danmaku": 2,
+                "reply": 18,
+                "fav": 55,
+                "coin": 24,
+                "share": 4,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 90,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 1336
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 38701828219,
+              "page": 1,
+              "from": "vupload",
+              "part": "戴德生与中国内地会的创立及其运作2026529",
+              "duration": 1052,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1WaVY6qEzn",
+            "pages": [
+              {
+                "cid": 38701828219,
+                "page": 1,
+                "from": "vupload",
+                "part": "戴德生与中国内地会的创立及其运作2026529",
+                "duration": 1052,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 196290508,
+            "aid": 116596098073967,
+            "cid": 38429393048,
+            "title": "卫理公会与近代中国医疗现代化20260522",
+            "attribute": 0,
+            "arc": {
+              "aid": 116596098073967,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i2.hdslb.com/bfs/archive/19b45fe9ad3f6984aaf54d19cfd5663cab491673.jpg",
+              "title": "卫理公会与近代中国医疗现代化20260522",
+              "pubdate": 1779451500,
+              "ctime": 1779451500,
+              "desc": "",
+              "state": 0,
+              "duration": 1071,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 116596098073967,
+                "view": 1837,
+                "danmaku": 3,
+                "reply": 17,
+                "fav": 118,
+                "coin": 56,
+                "share": 22,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 132,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 1837
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 38429393048,
+              "page": 1,
+              "from": "vupload",
+              "part": "卫理公会与近代中国医疗现代化20260522",
+              "duration": 1071,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1hkLA6KEAm",
+            "pages": [
+              {
+                "cid": 38429393048,
+                "page": 1,
+                "from": "vupload",
+                "part": "卫理公会与近代中国医疗现代化20260522",
+                "duration": 1071,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 194808167,
+            "aid": 116556302387794,
+            "cid": 38263852637,
+            "title": "美在中与南京基督教社区本土化：基督书院→宏育书院→金陵大学20260515",
+            "attribute": 0,
+            "arc": {
+              "aid": 116556302387794,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i0.hdslb.com/bfs/archive/c6ed2d38c16267a0d7bc3f95b6d331b08bae9054.jpg",
+              "title": "美在中与南京基督教社区本土化：基督书院→宏育书院→金陵大学20260515",
+              "pubdate": 1778846400,
+              "ctime": 1778846400,
+              "desc": "",
+              "state": 0,
+              "duration": 1079,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 116556302387794,
+                "view": 1192,
+                "danmaku": 2,
+                "reply": 7,
+                "fav": 43,
+                "coin": 27,
+                "share": 7,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 77,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 1192
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 38263852637,
+              "page": 1,
+              "from": "vupload",
+              "part": "美在中与南京基督教社区本土化：基督书院→宏育书院→金陵大学20260515",
+              "duration": 1079,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1924,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1x45t6bEVX",
+            "pages": [
+              {
+                "cid": 38263852637,
+                "page": 1,
+                "from": "vupload",
+                "part": "美在中与南京基督教社区本土化：基督书院→宏育书院→金陵大学20260515",
+                "duration": 1079,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1924,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 194143354,
+            "aid": 116538887636597,
+            "cid": 38190124633,
+            "title": "丁家立与天津近代教育转型：英华书院+北洋大学堂+庚子事变20260508",
+            "attribute": 0,
+            "arc": {
+              "aid": 116538887636597,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i2.hdslb.com/bfs/archive/83bf8beecf6aa426f20886e6e20e1bdb56bb7736.jpg",
+              "title": "丁家立与天津近代教育转型：英华书院+北洋大学堂+庚子事变20260508",
+              "pubdate": 1778242874,
+              "ctime": 1778242874,
+              "desc": "",
+              "state": 0,
+              "duration": 1030,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 116538887636597,
+                "view": 722,
+                "danmaku": 1,
+                "reply": 14,
+                "fav": 14,
+                "coin": 12,
+                "share": 4,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 61,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 722
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 38190124633,
+              "page": 1,
+              "from": "vupload",
+              "part": "丁家立与天津近代教育转型：英华书院+北洋大学堂+庚子事变20260508",
+              "duration": 1030,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1924,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1KWdGBDEu9",
+            "pages": [
+              {
+                "cid": 38190124633,
+                "page": 1,
+                "from": "vupload",
+                "part": "丁家立与天津近代教育转型：英华书院+北洋大学堂+庚子事变20260508",
+                "duration": 1030,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1924,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 191984190,
+            "aid": 116482969176709,
+            "cid": 37920179143,
+            "title": "启尔德与成都华西教会的医疗贡献：华西协和大学＋红十字会＋保路运动20260430",
+            "attribute": 0,
+            "arc": {
+              "aid": 116482969176709,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i1.hdslb.com/bfs/archive/669108015e96af42bf07257bc4f3f09476f8af87.jpg",
+              "title": "启尔德与成都华西教会的医疗贡献：华西协和大学＋红十字会＋保路运动20260430",
+              "pubdate": 1777550400,
+              "ctime": 1777550400,
+              "desc": "",
+              "state": 0,
+              "duration": 867,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 116482969176709,
+                "view": 1612,
+                "danmaku": 6,
+                "reply": 29,
+                "fav": 51,
+                "coin": 37,
+                "share": 9,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 120,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 1612
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 37920179143,
+              "page": 1,
+              "from": "vupload",
+              "part": "启尔德与成都华西教会的医疗贡献：华西协和大学＋红十字会＋保路运动20260430",
+              "duration": 867,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1924,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1wX9yBPE9h",
+            "pages": [
+              {
+                "cid": 37920179143,
+                "page": 1,
+                "from": "vupload",
+                "part": "启尔德与成都华西教会的医疗贡献：华西协和大学＋红十字会＋保路运动20260430",
+                "duration": 867,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1924,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 190859565,
+            "aid": 116453223238443,
+            "cid": 37749196505,
+            "title": "吴德施与武汉圣公会的博爱实践：华中大学+中华圣公会+辛亥革命20260424",
+            "attribute": 0,
+            "arc": {
+              "aid": 116453223238443,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i2.hdslb.com/bfs/archive/8d8cb69d40ff5f988583e75c0f8edf77b8998837.jpg",
+              "title": "吴德施与武汉圣公会的博爱实践：华中大学+中华圣公会+辛亥革命20260424",
+              "pubdate": 1777030200,
+              "ctime": 1777030200,
+              "desc": "",
+              "state": 0,
+              "duration": 1074,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 116453223238443,
+                "view": 1570,
+                "danmaku": 2,
+                "reply": 10,
+                "fav": 50,
+                "coin": 24,
+                "share": 7,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 113,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 1570
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 37749196505,
+              "page": 1,
+              "from": "vupload",
+              "part": "吴德施与武汉圣公会的博爱实践：华中大学+中华圣公会+辛亥革命20260424",
+              "duration": 1074,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1qtoYBaEPS",
+            "pages": [
+              {
+                "cid": 37749196505,
+                "page": 1,
+                "from": "vupload",
+                "part": "吴德施与武汉圣公会的博爱实践：华中大学+中华圣公会+辛亥革命20260424",
+                "duration": 1074,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 189058682,
+            "aid": 116404586023712,
+            "cid": 37577033051,
+            "title": "苏慧廉与温州新教本土化道路：东方耶路撒冷奠基人+牛津汉学家20260417",
+            "attribute": 0,
+            "arc": {
+              "aid": 116404586023712,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i2.hdslb.com/bfs/archive/f85275bb2678ca869c60235f8d54400e946990ab.jpg",
+              "title": "苏慧廉与温州新教本土化道路：东方耶路撒冷奠基人+牛津汉学家20260417",
+              "pubdate": 1776420000,
+              "ctime": 1776420000,
+              "desc": "",
+              "state": 0,
+              "duration": 1046,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 116404586023712,
+                "view": 3926,
+                "danmaku": 8,
+                "reply": 103,
+                "fav": 260,
+                "coin": 99,
+                "share": 96,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 228,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 3926
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 37577033051,
+              "page": 1,
+              "from": "vupload",
+              "part": "苏慧廉（修订版）20260417",
+              "duration": 1046,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1924,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1ejQ5BbED8",
+            "pages": [
+              {
+                "cid": 37577033051,
+                "page": 1,
+                "from": "vupload",
+                "part": "苏慧廉（修订版）20260417",
+                "duration": 1046,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1924,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 188629633,
+            "aid": 116380493938738,
+            "cid": 37394515928,
+            "title": "路平神父与东北老教友村的升级创新：黑龙江圣若瑟屯+自治委员会20260410",
+            "attribute": 0,
+            "arc": {
+              "aid": 116380493938738,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i1.hdslb.com/bfs/archive/118e770e6c2abbc5f982ef578aa86eee7d7dba26.jpg",
+              "title": "路平神父与东北老教友村的升级创新：黑龙江圣若瑟屯+自治委员会20260410",
+              "pubdate": 1775825676,
+              "ctime": 1775825676,
+              "desc": "",
+              "state": 0,
+              "duration": 1263,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 116380493938738,
+                "view": 2530,
+                "danmaku": 2,
+                "reply": 42,
+                "fav": 137,
+                "coin": 19,
+                "share": 18,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 116,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 2530
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 37394515928,
+              "page": 1,
+              "from": "vupload",
+              "part": "路平神父与东北老教友村的升级创新：黑龙江圣若瑟屯+自治委员会20260410",
+              "duration": 1263,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1924,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV128QcBGEED",
+            "pages": [
+              {
+                "cid": 37394515928,
+                "page": 1,
+                "from": "vupload",
+                "part": "路平神父与东北老教友村的升级创新：黑龙江圣若瑟屯+自治委员会20260410",
+                "duration": 1263,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1924,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 188629634,
+            "aid": 116352140509945,
+            "cid": 37263574858,
+            "title": "拔士林与秦岭天主教的虔诚守护：汉中古路坝教会+国立西北联大20260405",
+            "attribute": 0,
+            "arc": {
+              "aid": 116352140509945,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i2.hdslb.com/bfs/archive/ad32a2397e31ed140027cfd92e5f17f5452c1806.jpg",
+              "title": "拔士林与秦岭天主教的虔诚守护：汉中古路坝教会+国立西北联大20260405",
+              "pubdate": 1775393188,
+              "ctime": 1775393188,
+              "desc": "",
+              "state": 0,
+              "duration": 929,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 116352140509945,
+                "view": 1363,
+                "danmaku": 1,
+                "reply": 23,
+                "fav": 82,
+                "coin": 34,
+                "share": 16,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 97,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 1363
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 37263574858,
+              "page": 1,
+              "from": "vupload",
+              "part": "拔士林与秦岭天主教的虔诚守护：汉中古路坝教会+国立西北联大20260405",
+              "duration": 929,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1d1SDBtEKp",
+            "pages": [
+              {
+                "cid": 37263574858,
+                "page": 1,
+                "from": "vupload",
+                "part": "拔士林与秦岭天主教的虔诚守护：汉中古路坝教会+国立西北联大20260405",
+                "duration": 929,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 188629635,
+            "aid": 116340513900054,
+            "cid": 37209246740,
+            "title": "韩山明与黎力基的客家模式：巴塞尔差会的广东教会社区实践20260403",
+            "attribute": 0,
+            "arc": {
+              "aid": 116340513900054,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i0.hdslb.com/bfs/archive/6ea511703b3153a75c38e4e80bbc33850156444d.jpg",
+              "title": "韩山明与黎力基的客家模式：巴塞尔差会的广东教会社区实践20260403",
+              "pubdate": 1775215517,
+              "ctime": 1775215517,
+              "desc": "",
+              "state": 0,
+              "duration": 1076,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 116340513900054,
+                "view": 1305,
+                "danmaku": 1,
+                "reply": 22,
+                "fav": 127,
+                "coin": 21,
+                "share": 22,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 84,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 1305
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 37209246740,
+              "page": 1,
+              "from": "vupload",
+              "part": "韩山明与黎力基的客家模式：巴塞尔差会的广东教会社区实践20260403",
+              "duration": 1076,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1924,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1be9MB6EaU",
+            "pages": [
+              {
+                "cid": 37209246740,
+                "page": 1,
+                "from": "vupload",
+                "part": "韩山明与黎力基的客家模式：巴塞尔差会的广东教会社区实践20260403",
+                "duration": 1076,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1924,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 188629636,
+            "aid": 116312630103065,
+            "cid": 37077912563,
+            "title": "打马字牧师与厦门新教本土化：闽南语拼音+华人牧师+教会自治20260329",
+            "attribute": 0,
+            "arc": {
+              "aid": 116312630103065,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i1.hdslb.com/bfs/archive/7c5a9fe8146ea8c4d100e5a68f5645fd80fa158c.jpg",
+              "title": "打马字牧师与厦门新教本土化：闽南语拼音+华人牧师+教会自治20260329",
+              "pubdate": 1774790086,
+              "ctime": 1774790086,
+              "desc": "",
+              "state": 0,
+              "duration": 1279,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 116312630103065,
+                "view": 683,
+                "danmaku": 1,
+                "reply": 12,
+                "fav": 31,
+                "coin": 13,
+                "share": 8,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 43,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 683
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 37077912563,
+              "page": 1,
+              "from": "vupload",
+              "part": "打马字牧师与闽南语拼音：厦门新教本土化+华人自治典范20260329",
+              "duration": 1279,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1MAXQBoE5m",
+            "pages": [
+              {
+                "cid": 37077912563,
+                "page": 1,
+                "from": "vupload",
+                "part": "打马字牧师与闽南语拼音：厦门新教本土化+华人自治典范20260329",
+                "duration": 1279,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 188629637,
+            "aid": 116268455758670,
+            "cid": 36872850548,
+            "title": "马茂兰：从中国内地会传教士到仁德洋行创始人20260322",
+            "attribute": 0,
+            "arc": {
+              "aid": 116268455758670,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i1.hdslb.com/bfs/archive/3d62f162093e956bb49e85ccfdfa8daf3802fe8f.jpg",
+              "title": "马茂兰：从中国内地会传教士到仁德洋行创始人20260322",
+              "pubdate": 1774115996,
+              "ctime": 1774115996,
+              "desc": "",
+              "state": 0,
+              "duration": 975,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 116268455758670,
+                "view": 407,
+                "danmaku": 1,
+                "reply": 3,
+                "fav": 3,
+                "coin": 4,
+                "share": 3,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 21,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 407
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 36872850548,
+              "page": 1,
+              "from": "vupload",
+              "part": "马茂兰：从中国内地会传教士到仁德洋行创始人20260322",
+              "duration": 975,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1080,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1cBANzCEZc",
+            "pages": [
+              {
+                "cid": 36872850548,
+                "page": 1,
+                "from": "vupload",
+                "part": "马茂兰：从中国内地会传教士到仁德洋行创始人20260322",
+                "duration": 975,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1080,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 188629638,
+            "aid": 116249480727707,
+            "cid": 40168915404,
+            "title": "圣福若瑟与“上帝的村庄”：晚清的基层秩序重构与教案冲突20260318",
+            "attribute": 0,
+            "arc": {
+              "aid": 116249480727707,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i2.hdslb.com/bfs/archive/eb8d73eaace715b76b25b2a292e6f2143f9e257c.jpg",
+              "title": "圣福若瑟与“上帝的村庄”：晚清的基层秩序重构与教案冲突20260318",
+              "pubdate": 1773826779,
+              "ctime": 1773826779,
+              "desc": "",
+              "state": 0,
+              "duration": 1599,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 116249480727707,
+                "view": 1094,
+                "danmaku": 1,
+                "reply": 20,
+                "fav": 50,
+                "coin": 17,
+                "share": 16,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 66,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 1094
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 40168915404,
+              "page": 1,
+              "from": "vupload",
+              "part": "晚清基层秩序重构与教案冲突（过审版）20260706",
+              "duration": 1599,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1y5wezZEJz",
+            "pages": [
+              {
+                "cid": 40168915404,
+                "page": 1,
+                "from": "vupload",
+                "part": "晚清基层秩序重构与教案冲突（过审版）20260706",
+                "duration": 1599,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 188629639,
+            "aid": 116211027282773,
+            "cid": 36629580691,
+            "title": "林乐知与万国公报：晚清思想启蒙与维新推手20260311",
+            "attribute": 0,
+            "arc": {
+              "aid": 116211027282773,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i2.hdslb.com/bfs/archive/6a860c724c265e9ede11b7392c1c375f4aa66c83.jpg",
+              "title": "林乐知与万国公报：晚清思想启蒙与维新推手20260311",
+              "pubdate": 1773239769,
+              "ctime": 1773239769,
+              "desc": "",
+              "state": 0,
+              "duration": 907,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 116211027282773,
+                "view": 659,
+                "danmaku": 1,
+                "reply": 2,
+                "fav": 7,
+                "coin": 6,
+                "share": 6,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 36,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 659
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 36629580691,
+              "page": 1,
+              "from": "vupload",
+              "part": "林乐知与万国公报：晚清思想启蒙与维新推手20260311",
+              "duration": 907,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1920,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1GBwFz5EUZ",
+            "pages": [
+              {
+                "cid": 36629580691,
+                "page": 1,
+                "from": "vupload",
+                "part": "林乐知与万国公报：晚清思想启蒙与维新推手20260311",
+                "duration": 907,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 188629640,
+            "aid": 116189284008703,
+            "cid": 36535206016,
+            "title": "樊国梁：中国哥特再造北京北堂与庚子西什库保卫战20260307",
+            "attribute": 0,
+            "arc": {
+              "aid": 116189284008703,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i2.hdslb.com/bfs/archive/8308bb653817975c7e4f84cea961393f7f417623.jpg",
+              "title": "樊国梁：中国哥特再造北京北堂与庚子西什库保卫战20260307",
+              "pubdate": 1772908122,
+              "ctime": 1772908122,
+              "desc": "",
+              "state": 0,
+              "duration": 1211,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 116189284008703,
+                "view": 506,
+                "danmaku": 1,
+                "reply": 10,
+                "fav": 6,
+                "coin": 4,
+                "share": 7,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 19,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 506
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 36535206016,
+              "page": 1,
+              "from": "vupload",
+              "part": "樊国梁——被遗忘的北京主教与西什库生命的守护者20260307",
+              "duration": 1211,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1080,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1xCNAzEErF",
+            "pages": [
+              {
+                "cid": 36535206016,
+                "page": 1,
+                "from": "vupload",
+                "part": "樊国梁——被遗忘的北京主教与西什库生命的守护者20260307",
+                "duration": 1211,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1080,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 188629641,
+            "aid": 116166232117089,
+            "cid": 36431660292,
+            "title": "太平天国的洋兄弟——呤唎：从英国海军士官到太平天国上校20260304",
+            "attribute": 0,
+            "arc": {
+              "aid": 116166232117089,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i2.hdslb.com/bfs/archive/94096226f021251529526b2b136c010892b89dd9.jpg",
+              "title": "太平天国的洋兄弟——呤唎：从英国海军士官到太平天国上校20260304",
+              "pubdate": 1772556231,
+              "ctime": 1772556231,
+              "desc": "",
+              "state": 0,
+              "duration": 1417,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 116166232117089,
+                "view": 895,
+                "danmaku": 1,
+                "reply": 12,
+                "fav": 31,
+                "coin": 18,
+                "share": 6,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 42,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 895
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 36431660292,
+              "page": 1,
+              "from": "vupload",
+              "part": "太平天国的洋兄弟呤唎——从皇家海军到天国战士的无悔抉择20260304",
+              "duration": 1417,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1080,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1JPPwzAEuG",
+            "pages": [
+              {
+                "cid": 36431660292,
+                "page": 1,
+                "from": "vupload",
+                "part": "太平天国的洋兄弟呤唎——从皇家海军到天国战士的无悔抉择20260304",
+                "duration": 1417,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1080,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          },
+          {
+            "season_id": 7890155,
+            "section_id": 8764987,
+            "id": 188629642,
+            "aid": 116158481042566,
+            "cid": 36394370664,
+            "title": "罗孝全——洪秀全的信仰导师与太平天国的外交顾问20260302",
+            "attribute": 0,
+            "arc": {
+              "aid": 116158481042566,
+              "videos": 0,
+              "type_id": 0,
+              "type_name": "",
+              "copyright": 0,
+              "pic": "http://i2.hdslb.com/bfs/archive/961ce4823009762bff3c81c728b1cf3b3e055434.jpg",
+              "title": "罗孝全——洪秀全的信仰导师与太平天国的外交顾问20260302",
+              "pubdate": 1772438032,
+              "ctime": 1772438032,
+              "desc": "",
+              "state": 0,
+              "duration": 1354,
+              "rights": {
+                "bp": 0,
+                "elec": 0,
+                "download": 0,
+                "movie": 0,
+                "pay": 0,
+                "hd5": 0,
+                "no_reprint": 0,
+                "autoplay": 0,
+                "ugc_pay": 0,
+                "is_cooperation": 0,
+                "ugc_pay_preview": 0,
+                "arc_pay": 0,
+                "free_watch": 0
+              },
+              "author": {
+                "mid": 1408102015,
+                "name": "旷野先声",
+                "face": "https://i1.hdslb.com/bfs/face/85ed48387d95acdb10838cc03c9bd0f2b277ef20.jpg"
+              },
+              "stat": {
+                "aid": 116158481042566,
+                "view": 986,
+                "danmaku": 1,
+                "reply": 3,
+                "fav": 30,
+                "coin": 6,
+                "share": 5,
+                "now_rank": 0,
+                "his_rank": 0,
+                "like": 30,
+                "dislike": 0,
+                "evaluation": "",
+                "argue_msg": "",
+                "vt": 0,
+                "vv": 986
+              },
+              "dynamic": "",
+              "dimension": {
+                "width": 0,
+                "height": 0,
+                "rotate": 0
+              },
+              "desc_v2": null,
+              "is_chargeable_season": false,
+              "is_blooper": false,
+              "enable_vt": 0,
+              "vt_display": "",
+              "type_id_v2": 0,
+              "type_name_v2": "",
+              "is_lesson_video": 0
+            },
+            "page": {
+              "cid": 36394370664,
+              "page": 1,
+              "from": "vupload",
+              "part": "罗孝全——洪秀全的导师与太平天国的外交顾问20260302",
+              "duration": 1354,
+              "vid": "",
+              "weblink": "",
+              "dimension": {
+                "width": 1080,
+                "height": 1080,
+                "rotate": 0
+              }
+            },
+            "bvid": "BV1LBPjzKEhR",
+            "pages": [
+              {
+                "cid": 36394370664,
+                "page": 1,
+                "from": "vupload",
+                "part": "罗孝全——洪秀全的导师与太平天国的外交顾问20260302",
+                "duration": 1354,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1080,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "is_season_display": true,
+  "user_garb": {
+    "url_image_ani_cut": ""
+  },
+  "honor_reply": {},
+  "like_icon": "",
+  "need_jump_bv": false,
+  "disable_show_up_info": false,
+  "is_story_play": 1,
+  "is_view_self": false
+}

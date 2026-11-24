@@ -25,6 +25,7 @@ dist/
 **/player.json
 **/browser-target.json
 **/github-settings-tab.json
+**/sources/raw/
 
 # Known unrelated subtitle responses retained only as local evidence
 **/字幕接口错误返回/

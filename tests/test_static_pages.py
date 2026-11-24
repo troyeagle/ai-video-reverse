@@ -22,7 +22,8 @@ class StaticPagesTests(unittest.TestCase):
 
     def test_export_contains_only_registered_html(self):
         names = {p.relative_to(self.output).as_posix() for p in self.output.rglob('*') if p.is_file()}
-        self.assertEqual(names, {'index.html', 'BV1MssN6ZE1v/index.html'})
+        expected={'index.html'} | {case+'/index.html' for case in builder.load_cases()}
+        self.assertEqual(names, expected)
 
     def test_online_deck_preserves_all_slide_data(self):
         html = (self.output / 'BV1MssN6ZE1v/index.html').read_text()
@@ -47,6 +48,16 @@ class StaticPagesTests(unittest.TestCase):
 
     def test_directory_entry_uses_relative_case_links(self):
         self.assertIn('href="BV1MssN6ZE1v/"', (self.output / 'index.html').read_text())
+
+    def test_audit_cases_export_no_private_reference_material(self):
+        for case in ['BV11ts56mEVt','BV1JXxB6rErv']:
+            html=(self.output/case/'index.html').read_text()
+            self.assertIn('校核对照',html)
+            self.assertIn('查看全片审计报告',html)
+            self.assertIn('data-local-only="true"',html)
+            self.assertNotIn('src="narration.m4a"',html)
+            self.assertNotIn('地方财政报告参考文献.png',html)
+            self.assertNotIn('sources/raw/',html)
 
     def test_duplicate_or_traversal_case_ids_are_rejected(self):
         for cases in [['../private'], ['BV1MssN6ZE1v', 'BV1MssN6ZE1v'], []]:

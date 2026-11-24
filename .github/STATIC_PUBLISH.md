@@ -43,3 +43,11 @@ python3 -m http.server 8768 --directory dist
 新接入先保持白名单 `enabled: false`，源码构建成功后在博客勾选 `dry_run` 和 `include_disabled` 做预览；预览成功再启用并真实同步。日常发布无需重复此步骤。
 
 回退前先暂停本项目同步，避免最新产物覆盖回退。优先在源码用新提交恢复内容，再重新构建；不要重写分支历史。产物保留 14 天，过期后可在源码 `main` 手动生成新构建。Token 过期应续期或覆盖对应 Secret，不将值写入代码、日志或文档。
+
+
+## 新增审计案例
+
+- [LFCRI分省解读](https://troyeagle.github.io/ai-video-reverse/BV11ts56mEVt/)：59个画面阶段，原讲稿、审计、来源及条件性校核。非公开底稿未提供，不能认证原始指数；非公开参考截图不进Git或发布包。
+- [求是三文解读](https://troyeagle.github.io/ai-video-reverse/BV1JXxB6rErv/)：30个画面阶段，三篇官方原文的转述与作者演绎分列。
+
+原32页/81条讲稿案例继续保持兼容。新案例源码位于`scripts/audit-deck/`与各案例`interactive-slides/source/`，注册后只导出HTML。完整Markdown审计报告与验证记录留在案例目录，公开网页内可查看全片审计，不导出原文快照、媒体或参考帧。

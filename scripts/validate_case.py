@@ -60,7 +60,8 @@ for index, slide in enumerate(slides):
     assert slide['start'] < slide['end']
     if index:
         assert slides[index - 1]['end'] == slide['start'], 'Gap or overlap in page ranges'
-    assert slide['cues'], f'Page {index + 1} has no transcript'
+    if not slide['cues']:
+        assert slide.get('narration_free') is True and slide.get('empty_reason'), f'Page {index + 1} needs an explicit silent-page reason'
     for cue in slide['cues']:
         assert 0 <= cue['start'] < cue['end'] <= deck['duration']
         assert cue['text'].strip()
