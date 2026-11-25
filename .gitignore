@@ -20,6 +20,11 @@ dist/
 *.flac
 *.zip
 
+# Explicitly authorized public narration; all other media remains local.
+!/public-audio/BV1MssN6ZE1v.m4a
+!/public-audio/BV11ts56mEVt.m4a
+!/public-audio/BV1JXxB6rErv.m4a
+
 # Temporary playback URLs, account state and browser identifiers
 **/playurl.json
 **/player.json

@@ -28,7 +28,7 @@ troyeagle <troyeagle@qq.com>
 - `interactive-slides/slides-data.json` 是已交付页面与讲稿的数据源。编辑后使用该目录的 `source/rebuild.py` 重建。
 - 脚本用相对路径定位案例，不把开发者本机绝对路径写入发布入口。
 - 页面变更后运行 `python3 scripts/validate_case.py`，再按变更范围做浏览器验证。
-- HTML 发布按 `.github/STATIC_PUBLISH.md`：仅导出 `.github/static-pages.json` 登记的案例，运行 `python3 -m unittest discover -s tests -v` 和 `python3 scripts/build_static_pages.py`。不发布媒体、参考帧、校订资料或可编辑模板；本地原声与线上无音频模式都要保留。
+- HTML 发布按 `.github/STATIC_PUBLISH.md`：仅导出 `.github/static-pages.json` 登记的案例，运行 `python3 -m unittest discover -s tests -v` 和 `python3 scripts/build_static_pages.py`。用户于2026-11-25确认音频已获授权，允许发布清单中逐项登记的 `public-audio/` M4A；核对授权记录、字节数和SHA-256后导出。其他媒体、参考帧、校订资料或可编辑模板不发布；本地原声与 `--without-audio` 的无音频模式都要保留。
 - 排版检查必须包括实际图像；元素没越界不能证明它们没有互相遮挡。
 - Chrome是共享浏览器。按browser-use技能的要求串行使用默认连接，在后台测试；临时开启焦点模拟必须在 `finally` 中关闭。
 - 不因截图显示透明、原声尚未加载，就直接判断页面代码失效；先核对标签可见性及动画完成状态。

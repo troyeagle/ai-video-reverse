@@ -18,9 +18,9 @@
 **[阅读完整文章](cases/BV1MssN6ZE1v/严查税、补社保只是序章：土地财政退潮后，钱从哪里来？.md)**  
 **[逐页讲稿对照](cases/BV1MssN6ZE1v/interactive-slides/页面与讲稿对照.md)**
 
-在本地直接用浏览器打开HTML即可使用。原声文件与网页放在同一目录。Git只追踪代码、文字内容、文档和验证图像；视频、音频、ZIP、模型及运行缓存保留在本地案例目录。
+在本地直接用浏览器打开HTML即可使用。原声文件与网页放在同一目录。原始视频、原始音频、ZIP、模型及运行缓存保留在本地案例目录。用户确认获授权的轻量M4A单独存放在`public-audio/`并由发布清单逐项登记，和代码、文字、文档及验证证据一同追踪。
 
-[线上演示目录](https://troyeagle.github.io/ai-video-reverse/)由本公开仓库独立部署项目 Pages；[当前案例](https://troyeagle.github.io/ai-video-reverse/BV1MssN6ZE1v/)保留完整演示及讲稿，原声仅在本地提供。重建、案例登记和通知配置见 [HTML 自动发布规约](.github/STATIC_PUBLISH.md)。
+[线上演示目录](https://troyeagle.github.io/ai-video-reverse/)由本公开仓库独立部署项目 Pages，三个案例均提供原声播放、按页定位和讲稿跟随。授权M4A合计约18.95MB，独立于HTML加载。来源、文件校验和授权记录见 [公开音频说明](public-audio/README.md)；构建与无音频回退见 [HTML 自动发布规约](.github/STATIC_PUBLISH.md)。
 
 ## 新增：视频复原与内容审计
 

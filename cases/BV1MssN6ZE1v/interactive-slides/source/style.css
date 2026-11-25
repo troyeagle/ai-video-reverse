@@ -11,3 +11,4 @@
 .freeze .flow-path.draw,.mini .flow-path.draw{stroke-dashoffset:0;animation:none}.freeze .grow-horizontal,.mini .grow-horizontal{transform:none!important;transition:none!important}
 
 .hint-pill{white-space:nowrap}
+.top-actions button.primary:hover,.top-actions button.primary:focus-visible{background:#265f53;color:#fff}

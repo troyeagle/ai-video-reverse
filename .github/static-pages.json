@@ -1,4 +1,46 @@
 {
   "schema": 1,
-  "cases": ["BV1MssN6ZE1v", "BV11ts56mEVt", "BV1JXxB6rErv"]
+  "cases": [
+    "BV1MssN6ZE1v",
+    "BV11ts56mEVt",
+    "BV1JXxB6rErv"
+  ],
+  "audio": {
+    "BV1MssN6ZE1v": {
+      "file": "public-audio/BV1MssN6ZE1v.m4a",
+      "sha256": "6156617062952542ddf1ce0e5ac89f6ae7528764a64395665307d0d49dfd3db2",
+      "bytes": 5220966,
+      "duration": 624.575986,
+      "codec": "AAC / M4A",
+      "permission": {
+        "status": "user-confirmed",
+        "date": "2026-11-25",
+        "record": "docs/user-instructions.md"
+      }
+    },
+    "BV11ts56mEVt": {
+      "file": "public-audio/BV11ts56mEVt.m4a",
+      "sha256": "b4467a5abcd6e5427e4579ec4b07fefe6cc1869f0495299fed23db301f11ee53",
+      "bytes": 9853088,
+      "duration": 1180.202948,
+      "codec": "AAC / M4A",
+      "permission": {
+        "status": "user-confirmed",
+        "date": "2026-11-25",
+        "record": "docs/user-instructions.md"
+      }
+    },
+    "BV1JXxB6rErv": {
+      "file": "public-audio/BV1JXxB6rErv.m4a",
+      "sha256": "22325fdb77faa6f7838ce34f51589cdead771cec2b3b0995c923e68e2d29f5a5",
+      "bytes": 3880594,
+      "duration": 464.96,
+      "codec": "AAC / M4A",
+      "permission": {
+        "status": "user-confirmed",
+        "date": "2026-11-25",
+        "record": "docs/user-instructions.md"
+      }
+    }
+  }
 }

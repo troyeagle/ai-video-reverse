@@ -43,6 +43,20 @@ python3 scripts/build_static_pages.py
 
 AI agent 的提交只使用 `Co-authored-by: Bot <bot@anonymous.com>` 一条匿名尾注，推送前读取实际提交信息核对；主作者仍使用用户指定的仓库身份。发布身份、构建记录与回退说明随代码提交，不写入任何 Token 值。
 
+## 已授权原声
+
+2026-11-25用户确认获授权并要求以M4A发布。`.github/static-pages.json`的`audio`字段只登记当前三个案例，包含精确的`public-audio/<ID>.m4a`路径、字节数、SHA-256和用户授权确认记录。构建校验案例登记、授权状态、普通文件路径、容器标识、大小与哈希，任何缺失或不匹配都会失败，不静默发布其他媒体。
+
+公开页面使用同目录的`narration-<SHA前12位>.m4a`，新文件名避免更新后引用旧缓存；`preload="metadata"`且没有自动播放，访问者点击后收听。M4A支持按时间定位，保留原声跟随和讲稿高亮。音频不内嵌Base64。前两例64kbps单声道，求是案例不二次有损转码；总量18,954,648字节，约18.95MB。完整来源和确认说明见`public-audio/README.md`。
+
+本地案例HTML仍引用旁边的原始`narration.m4a`。没有`audio`登记的案例按无音频模式导出；也可明确运行：
+
+```sh
+python3 scripts/build_static_pages.py --without-audio --output .local/silent-site
+```
+
+此回退只导出登记的HTML，不包含任何音频。未来使用博客回退时，应先核验共享发布器是否允许登记的M4A；若仍采用HTML-only审核，使用无音频产物。当前独立项目Pages不新增Token、后台服务或对象存储账户。
+
 
 ## 新增审计案例
 

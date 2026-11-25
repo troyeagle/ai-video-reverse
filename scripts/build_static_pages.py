@@ -1,5 +1,6 @@
 """Build only explicitly registered standalone decks for project Pages or an approved blog fallback."""
 from html import escape
+import hashlib
 import json
 from pathlib import Path
 import re
@@ -22,8 +23,35 @@ def load_cases(root=ROOT):
     return cases
 
 
-def build_site(output=None, root=ROOT):
+def load_audio(cases, root=ROOT):
+    config = json.loads((root / '.github/static-pages.json').read_text())
+    audio = config.get('audio', {})
+    if not isinstance(audio, dict) or set(audio) - set(cases):
+        raise ValueError('Audio must belong to an explicitly registered case')
+    approved = {}
+    for case, entry in audio.items():
+        expected = f'public-audio/{case}.m4a'
+        if not isinstance(entry, dict) or entry.get('file') != expected:
+            raise ValueError('Audio must use its exact approved public-audio path')
+        permission = entry.get('permission', {})
+        if not isinstance(permission, dict) or permission.get('status') != 'user-confirmed' or not permission.get('date') or permission.get('record') != 'docs/user-instructions.md':
+            raise ValueError(f'Missing public audio permission record for {case}')
+        source = root / expected
+        if source.parent.is_symlink() or source.is_symlink() or not source.is_file():
+            raise ValueError(f'Missing regular authorized audio file for {case}')
+        digest = hashlib.sha256(source.read_bytes()).hexdigest()
+        if entry.get('sha256') != digest or entry.get('bytes') != source.stat().st_size:
+            raise ValueError(f'Authorized audio size/hash mismatch for {case}')
+        with source.open('rb') as stream:
+            if stream.read(8)[4:8] != b'ftyp':
+                raise ValueError(f'Expected an M4A container for {case}')
+        approved[case] = (source, f'narration-{digest[:12]}.m4a')
+    return approved
+
+
+def build_site(output=None, root=ROOT, include_audio=True):
     cases = load_cases(root)
+    approved_audio = load_audio(cases, root) if include_audio else {}
     output = Path(output) if output is not None else root / 'dist'
     # Validate and rebuild before replacing the disposable output directory.
     pages = []
@@ -38,7 +66,11 @@ def build_site(output=None, root=ROOT):
         audio = '<audio id="narration" src="narration.m4a" preload="metadata">'
         if html.count(audio) != 1:
             raise ValueError('Unexpected narration markup; review the online audio policy')
-        html = html.replace(audio, '<audio id="narration" data-local-only="true" preload="none">')
+        if case in approved_audio:
+            name = approved_audio[case][1]
+            html = html.replace(audio, f'<audio id="narration" src="{name}" data-public-audio="true" preload="metadata">')
+        else:
+            html = html.replace(audio, '<audio id="narration" data-local-only="true" preload="none">')
         pages.append((case, data, html))
     if output.is_symlink():
         raise ValueError('Output directory must not be a symlink')
@@ -50,6 +82,9 @@ def build_site(output=None, root=ROOT):
         dest = output / case
         dest.mkdir()
         (dest / 'index.html').write_text(html)
+        if case in approved_audio:
+            source, name = approved_audio[case]
+            shutil.copyfile(source, dest / name)
         links.append(f'<li><a href="{case}/">{escape(data["title"])}</a><p>{escape(data["author"])} · {len(data["slides"])} 页交互演示</p></li>')
     (output / 'index.html').write_text('''<!doctype html>
 <html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
@@ -60,4 +95,9 @@ def build_site(output=None, root=ROOT):
 
 
 if __name__ == '__main__':
-    build_site()
+    import argparse
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('--without-audio', action='store_true', help='Export HTML-only fallback without public narration')
+    parser.add_argument('--output', type=Path, help='Override output directory')
+    args = parser.parse_args()
+    build_site(output=args.output, include_audio=not args.without_audio)
