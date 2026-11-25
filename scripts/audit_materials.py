@@ -8,6 +8,27 @@ LOW=[('湖北',7247,56.2),('辽宁',7065,58.1),('四川',7032,56.0),('江西',68
 BLOCKS={'names':['A 财力造血','B 收支平衡','C 负债挤压','D 流动性'],'weights':[35,30,25,10],'all':[37.3,61.5,83.9,57.8],'high':[35.6,54.0,79.4,61.2],'low':[39.0,68.9,88.4,56.1]}
 HEADROOM=[('广东',.86),('河北',3.13),('山东',3.93),('吉林',3.96),('浙江',4.08),('福建',4.36),('海南',4.60),('江西',4.89),('广西',4.90),('新疆',5.00)]
 
+# Describe actual visual differences, separately from findings that retain the chart.
+LF_COMPARISONS = {
+    'low': dict(kind='correction', label='数量更正', summary='标题的橙区数量从9省更正为7省；表内分数不变。', original='标题写“橙区9省”。', checked='按本片14省表逐项计数，橙区为7省。', auditIds=['L03']),
+    'comparison': dict(kind='correction', label='组间差说明', summary='柱值不变；明确最大差为B14.9分，D仅5.1分。', original='原副标题称“A、C差距最大”，口播将D差距说成15分以上。', checked='按显示值相减：A3.4、B14.9、C9.0、D5.1；最大差是B。', auditIds=['L04','L05']),
+    'means': dict(kind='conditional', label='条件演算', summary='显示等人数、无缺项假设下的均值；不能据此认证或否定原模型。', original='原图D均值57.8；标题称负债端“全面橙区”。', checked='若两组各14省且无缺项，D均值为58.65。缺项口径未披露，57.8仍可能成立；C83.9按阈值属红区，不能推出各省全面橙区。', auditIds=['L06','L07','L10']),
+    'scatter': dict(kind='correction', label='坐标校核', summary='用片内已给出的数值重新定位5个点，并说明筛选线的口径差异。', original='吉林标签847%却画在约750%；云南标签817%却画在约720%。上海、天津的位置也与片内别页数值不符。', checked='以片内数值定位吉林847.4%、云南816.7%等点；按口述的40%／700%画筛选线，和原图50%／661%区别标明。缺少数据的省份不补造。', auditIds=['L08','L09']),
+    'shanxi': dict(kind='qualification', label='表述限定', summary='分数不变；将“虚假复苏”的确定性标题改为需要证据支持的解释。', original='标题将山西、内蒙古的改善称为“虚假的复苏”。', checked='保留分值下降与存量压力，将这一因果定性标为待补证。', auditIds=['L15']),
+    'tianjin': dict(kind='qualification', label='推断限定', summary='数字不变；区分分母收缩的比率效应和公共服务存量耗损。', original='说明称收缩分母制造纸面改善，并消耗公共服务存量。', checked='比率提高可由分母收缩推动；证明公共服务存量耗损还需要另外的数据。', auditIds=['L17']),
+    'patients': dict(kind='correction', label='分区更正', summary='柱值不变；吉林B32属于绿区，不能称A/B/C全线危重。', original='原图将吉林概括为“A/B/C全线危重”。', checked='保留原分值及缺项；指出B32为绿区，分开说明各板块压力。', auditIds=['L11']),
+}
+
+def add_comparison_details(data):
+    if data['caseId'] != 'BV11ts56mEVt':
+        return
+    for slide in data['slides']:
+        details = LF_COMPARISONS.get(slide['scene'])
+        if details:
+            slide['comparison'] = dict(details)
+        else:
+            slide.pop('comparison', None)
+
 def check(id,status,title,claim,evidence,times,sources=(),calc='',scope=''):
     return dict(id=id,status=status,title=title,claim=claim,evidence=evidence,times=times,sources=list(sources),calculation=calc,scope=scope)
 
@@ -115,6 +136,7 @@ def build(case_id,phases,checks):
             source['excerpts']=[dict(id=k,location=loc,text=t) for k,loc,t in items]
             assert sum(len(x['text']) for x in source['excerpts'])<=90
     data=dict(title=metadata['title'],author=metadata['owner']['name'],source='https://www.bilibili.com/video/'+case_id+'/',caseId=case_id,duration=duration,slides=slides,data=dict(high=HIGH,low=LOW,blocks=BLOCKS,headroom=HEADROOM) if case_id=='BV11ts56mEVt' else {},audit=dict(summary='内部图表审计与公开引用核验；非公开底稿未提供，不能认证LFCRI原始评分' if case_id=='BV11ts56mEVt' else '求是三篇原文对照：区分忠实转述、作者推演及待补证表述',findings=checks,sources=sources),timing_note='按12秒高清采样识别可见阶段，起点为采样近似；审计证据指向准确的原视频帧时刻。')
+    add_comparison_details(data)
     p=case/'interactive-slides';p.mkdir(exist_ok=True)
     (p/'slides-data.json').write_text(json.dumps(data,ensure_ascii=False,indent=2))
     calibrated=dict(source=data['source'],method='逐字时间拆分与画面术语校订；未将审计建议替换到原讲稿',duration=duration,segments=[c for s in slides for c in s['cues']])

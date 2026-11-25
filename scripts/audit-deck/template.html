@@ -2,7 +2,7 @@
 <html lang="zh-CN">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="description" content="根据Alpha茶水间原视频重绘的32页交互幻灯片，附对应原声讲稿与自由选页导航。">
+<meta name="description" content="根据原视频重绘的交互幻灯片，附对应讲稿、逐页校核差异和来源审计。">
 <title>__TITLE__ · 交互 Slides</title>
 <style>/*__STYLE__*/</style>
 </head>
@@ -15,7 +15,8 @@
  </header>
  <main class="workspace">
   <section class="presentation" id="presentation" aria-label="交互幻灯片">
-   <div class="slide-toolbar"><button id="checked-view" aria-pressed="false">校核对照</button><div class="slide-picker"><span class="toolbar-tag">当前页面</span><label class="sr-only" for="page-select">自由选择当前幻灯片</label><select id="page-select"></select></div><button id="gallery-open" class="overview-button">全部页面</button></div>
+   <div class="slide-toolbar"><button id="checked-view" aria-pressed="false" aria-describedby="comparison-summary">查看本页差异</button><div class="slide-picker"><span class="toolbar-tag">当前页面</span><label class="sr-only" for="page-select">自由选择当前幻灯片</label><select id="page-select"></select></div><button id="gallery-open" class="overview-button">全部页面</button></div>
+   <div class="comparison-panel" id="comparison-panel"><div class="comparison-heading"><strong id="comparison-status"></strong><div class="comparison-actions"><button id="comparison-next">下一处差异</button><button id="comparison-directory">有差异的页</button><button id="comparison-audit" hidden>查看核查依据</button></div></div><p id="comparison-summary" aria-live="polite"></p><div class="comparison-details" id="comparison-details" hidden><div><b>原视频表达</b><p id="comparison-original"></p></div><div><b>校核说明</b><p id="comparison-checked"></p></div></div></div>
    <div id="stage-host" class="stage-host"><div class="canvas" id="canvas" role="group"></div></div>
    <div class="transport-controls"><div class="page-navigation"><button id="previous" aria-label="上一张幻灯片"></button><div id="page-count" class="page-count" aria-live="polite"></div><button id="next" aria-label="下一张幻灯片"></button></div><div class="effect-controls"><button id="replay">重播动效</button><button id="step-mode" aria-pressed="false">逐步演示</button><button id="step-next" hidden>展开一步</button><button id="auto-toggle" aria-pressed="false">自动演示</button></div></div>
    <div class="page-caption"><span class="phase-name" id="phase-name"></span><span id="source-range"></span></div>
@@ -29,7 +30,7 @@
   </aside>
  </main>
 </div>
-<dialog id="gallery" class="gallery-dialog" aria-labelledby="gallery-title"><div class="gallery-heading"><div><h2 id="gallery-title">选择一张幻灯片</h2><div id="gallery-count" class="small-label" style="font-size:11px;margin-top:6px">案例目录</div></div><div class="gallery-tools"><label class="sr-only" for="gallery-search">搜索标题或讲稿</label><input id="gallery-search" type="search" placeholder="搜索标题或讲稿"><button id="gallery-close" aria-label="关闭页面目录"></button></div></div><div id="gallery-grid" class="gallery-grid"></div></dialog>
+<dialog id="gallery" class="gallery-dialog" aria-labelledby="gallery-title"><div class="gallery-heading"><div><h2 id="gallery-title">选择一张幻灯片</h2><div id="gallery-count" class="small-label" style="font-size:11px;margin-top:6px">案例目录</div><label class="gallery-filter"><input id="gallery-differences" type="checkbox">只看可对照的页</label></div><div class="gallery-tools"><label class="sr-only" for="gallery-search">搜索标题、讲稿或校核差异</label><input id="gallery-search" type="search" placeholder="搜索标题、讲稿或差异"><button id="gallery-close" aria-label="关闭页面目录"></button></div></div><div id="gallery-grid" class="gallery-grid"></div></dialog>
 <div id="toast" class="toast" role="status"></div>
 <audio id="narration" src="narration.m4a" preload="metadata"></audio>
 <script id="deck-data" type="application/json">/*__DATA__*/</script>
