@@ -50,3 +50,7 @@ AI agent 的提交只使用 `Co-authored-by: Bot <bot@anonymous.com>` 一条匿�
 - [求是三文解读](https://troyeagle.github.io/ai-video-reverse/BV1JXxB6rErv/)：30个画面阶段，三篇官方原文的转述与作者演绎分列。
 
 原32页/81条讲稿案例继续保持兼容。新案例源码位于`scripts/audit-deck/`与各案例`interactive-slides/source/`，注册后只导出HTML。完整Markdown审计报告与验证记录留在案例目录，公开网页内可查看全片审计，不导出原文快照、媒体或参考帧。
+
+## Git 提交身份
+
+人类作者和提交者统一为 `troyeagle <troyeagle@qq.com>`，AI 协作者为 `Bot <bot@anonymous.com>`；按根目录 `AGENTS.md` 配置本仓库本地身份。历史改写后，共享 workflow 与 publisher_ref 必须使用博客新历史中的同一固定 SHA，并重新构建验证。
